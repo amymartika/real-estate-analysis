@@ -1,0 +1,334 @@
+Agent,Market,2024 Total Conversion,Normalized Conversion,Avg Customer Rating,Normalized Rating,Diff from Median,Normalized Diff,Weighted Index Score,Agent Rank in Market
+Kwame Singh 576,"Salt Lake City, UT",0.19,0.46,2.58,0.52,-30%,0.51,0.50,2
+Hao Jackson 527,"St. Louis, MO",0.15,0.37,2,0.40,-58%,0.28,0.33,4
+Malik Mitchell 314,"Detroit, MI",0.31,0.76,3.24,0.65,-63%,0.25,0.47,9
+Tanya Young 212,"Las Vegas, NV",0.17,0.41,3.2,0.64,23%,0.93,0.73,1
+Yuki Ali 72,"Fresno, CA",0.19,0.46,3.44,0.69,-69%,0.20,0.39,5
+Arjun Robinson 452,"Atlanta, GA",0.22,0.54,2.92,0.59,-36%,0.46,0.51,2
+Kenji Hernandez 461,"Baltimore, MD",0.17,0.41,3.21,0.64,-52%,0.33,0.43,3
+Layla White 873,"Portland, OR",0.23,0.56,3.12,0.63,-51%,0.34,0.47,2
+Ebony Nelson 385,"Virginia Beach, VA",0.17,0.41,4.48,0.90,-61%,0.26,0.46,4
+Mina Hill 351,"Fresno, CA",0.22,0.54,4.56,0.91,-62%,0.25,0.49,2
+Michael Lewis 922,"Orlando, FL",0.12,0.29,3.82,0.77,-61%,0.26,0.40,9
+Wei Adams 970,"Grand Rapids, MI",0.2,0.49,4.34,0.87,22%,0.92,0.80,1
+Barbara Young 959,"Detroit, MI",0.25,0.61,4.98,1.00,-48%,0.36,0.58,6
+Michael Robinson 545,"Salt Lake City, UT",0.24,0.59,3.16,0.63,-75%,0.15,0.38,6
+Asha Ramirez 805,"Miami, FL",0.14,0.34,2.26,0.45,-74%,0.16,0.28,8
+Mary Ramirez 279,"Indianapolis, IN",0.14,0.34,3.79,0.76,69%,1.00,0.78,1
+Zainab Abdullah 560,"Providence, RI",0.31,0.76,3.37,0.68,-49%,0.36,0.54,2
+Robert Lewis 585,"Grand Rapids, MI",0.18,0.44,3.34,0.67,-70%,0.19,0.37,10
+Aisha Smith 672,"Chicago, IL",0.15,0.37,2.66,0.53,-30%,0.51,0.48,2
+Dorothy Robinson 743,"San Francisco, CA",0.17,0.41,3.09,0.62,-91%,0.02,0.27,5
+Elizabeth Davis 895,"Orlando, FL",0.12,0.29,4.78,0.96,-36%,0.46,0.54,6
+Hiroshi Singh 927,"Kansas City, MO",0.19,0.46,2.21,0.44,-50%,0.35,0.40,5
+Mei Nguyen 346,"Salt Lake City, UT",0.14,0.34,3.38,0.68,-42%,0.41,0.46,4
+Hao Kim 684,"Seattle, WA",0.15,0.37,3.39,0.68,-54%,0.32,0.42,3
+Christopher Harris 499,"Kansas City, MO",0.11,0.27,2.17,0.43,-57%,0.29,0.32,8
+Yuki Lewis 420,"Buffalo, NY",0.12,0.29,4.62,0.93,-57%,0.29,0.45,4
+Ebony Mitchell 272,"Salt Lake City, UT",0.11,0.27,3.77,0.76,-41%,0.42,0.47,3
+Barbara Hernandez 388,"Philadelphia, PA",0.16,0.39,2.7,0.54,-41%,0.42,0.44,5
+Amanda Hall 792,"New York, NY",0.24,0.59,3.13,0.63,-88%,0.05,0.33,7
+Ling Parker 768,"Denver, CO",0.11,0.27,4.51,0.90,-38%,0.44,0.51,1
+Jason Garcia 337,"Boston, MA",0.2,0.49,2.1,0.42,-82%,0.09,0.27,6
+Jessica Garcia 415,"Las Vegas, NV",0.21,0.51,4.61,0.92,-57%,0.29,0.51,5
+Emily Gonzalez 560,"Houston, TX",0.12,0.29,4.48,0.90,-34%,0.47,0.53,5
+Latoya Lewis 862,"Denver, CO",0.11,0.27,3.6,0.72,-83%,0.09,0.29,5
+Jin Carter 761,"Sacramento, CA",0.21,0.51,4.79,0.96,-40%,0.43,0.58,1
+Maria Lewis 193,"Pittsburgh, PA",0.23,0.56,4.75,0.95,-34%,0.47,0.62,4
+Minh Mohamed 224,"Virginia Beach, VA",0.17,0.41,4.27,0.86,-51%,0.34,0.49,3
+Takeshi Evans 952,"San Francisco, CA",0.17,0.41,2.66,0.53,-91%,0.02,0.25,8
+Haruka Khan 777,"Birmingham, AL",0.11,0.27,4.41,0.88,-44%,0.40,0.49,6
+Joseph Evans 855,"Phoenix, AZ",0.11,0.27,4.12,0.83,-52%,0.33,0.44,5
+Michael Lewis 39,"San Francisco, CA",0.18,0.44,4.95,0.99,-86%,0.06,0.39,1
+Luis Green 96,"Richmond, VA",0.15,0.37,2.6,0.52,-69%,0.20,0.32,10
+Zainab Torres 559,"Salt Lake City, UT",0.11,0.27,3.56,0.71,-65%,0.23,0.36,7
+Daniel Ramirez 638,"Pittsburgh, PA",0.12,0.29,2.12,0.42,-37%,0.45,0.40,8
+Mei Washington 208,"St. Louis, MO",0.1,0.24,2.07,0.41,306%,1.00,0.66,1
+Michael Garcia 49,"Jacksonville, FL",0.11,0.27,4.49,0.90,1%,0.75,0.67,1
+Priya Young 89,"Los Angeles, CA",0.16,0.39,2.65,0.53,-44%,0.40,0.43,1
+Charles Adams 753,"Phoenix, AZ",0.13,0.32,3.59,0.72,-33%,0.48,0.50,2
+Camila Singh 380,"Las Vegas, NV",0.24,0.59,3.59,0.72,-22%,0.57,0.61,2
+Jamal Thompson 459,"Kansas City, MO",0.12,0.29,2.87,0.58,-49%,0.36,0.39,6
+Mei Tran 609,"Birmingham, AL",0.16,0.39,3.51,0.70,-58%,0.28,0.42,7
+Priya Mohamed 314,"Richmond, VA",0.14,0.34,2.58,0.52,-30%,0.51,0.47,6
+Minh Kim 554,"Tampa, FL",0.11,0.27,4.91,0.98,-46%,0.38,0.50,3
+Anthony Ali 118,"Seattle, WA",0.24,0.59,3.78,0.76,-87%,0.06,0.36,4
+Patricia Campbell 460,"San Jose, CA",0.23,0.56,4.23,0.85,-85%,0.07,0.39,1
+Aisha Lopez 898,"Austin, TX",0.25,0.61,3,0.60,-41%,0.42,0.51,1
+Mina Jackson 2,"Raleigh, NC",0.12,0.29,2.03,0.41,-38%,0.44,0.40,5
+Malik Rodriguez 436,"Detroit, MI",0.12,0.29,2.09,0.42,-16%,0.62,0.49,7
+Daniel Smith 15,"Houston, TX",0.19,0.46,3.22,0.65,-61%,0.26,0.41,7
+Lakshmi Nelson 232,"Las Vegas, NV",0.1,0.24,2.31,0.46,-68%,0.21,0.28,10
+Daniel Harris 477,"Milwaukee, WI",0.13,0.32,2.25,0.45,210%,1.00,0.69,1
+Charles Jones 839,"Salt Lake City, UT",0.26,0.63,3.22,0.65,-88%,0.05,0.34,8
+Keisha Ramirez 453,"Charlotte, NC",0.18,0.44,2.04,0.41,10%,0.82,0.62,2
+Miguel Adams 229,"Los Angeles, CA",0.18,0.44,2.59,0.52,-78%,0.13,0.30,6
+Hiroshi Nelson 577,"Orlando, FL",0.22,0.54,2.4,0.48,-61%,0.26,0.38,10
+Tanya Walker 782,"San Diego, CA",0.13,0.32,2.29,0.46,-89%,0.04,0.21,10
+Aisha Perez 62,"San Diego, CA",0.11,0.27,4.37,0.88,-94%,0.00,0.29,8
+Haruka Mitchell 361,"Buffalo, NY",0.16,0.39,3.53,0.71,-55%,0.31,0.43,6
+Mei Brown 300,"Portland, OR",0.12,0.29,2.43,0.49,-67%,0.21,0.30,3
+Isabella Torres 56,"San Jose, CA",0.13,0.32,2.06,0.41,-88%,0.05,0.21,6
+Jason Allen 167,"Baltimore, MD",0.16,0.39,3.43,0.69,-64%,0.24,0.39,5
+Kenji Clark 504,"Raleigh, NC",0.16,0.39,3.29,0.66,-57%,0.29,0.41,4
+James Campbell 857,"Los Angeles, CA",0.2,0.49,2.59,0.52,-70%,0.19,0.35,2
+Omar Mohamed 103,"Kansas City, MO",0.18,0.44,4.23,0.85,-48%,0.36,0.50,2
+Aisha Abdullah 290,"Phoenix, AZ",0.14,0.34,2.93,0.59,-38%,0.44,0.45,4
+Tyrone Jones 289,"Louisville, KY",0.27,0.66,4.89,0.98,-65%,0.23,0.52,6
+Juan Hill 434,"San Jose, CA",0.14,0.34,4.76,0.95,-90%,0.03,0.34,5
+Christopher Smith 806,"Orlando, FL",0.22,0.54,3.62,0.73,-14%,0.63,0.63,3
+Jessica Mitchell 182,"Virginia Beach, VA",0.11,0.27,4,0.80,-67%,0.21,0.37,7
+Jin Harris 955,"New York, NY",0.3,0.73,3.96,0.79,-92%,0.02,0.39,5
+Jamal Brown 791,"Detroit, MI",0.16,0.39,3.86,0.77,46%,1.00,0.79,1
+Charles Green 824,"Phoenix, AZ",0.14,0.34,3.41,0.68,-40%,0.43,0.47,3
+Patricia Young 347,"Dallas, TX",0.36,0.88,2.4,0.48,-71%,0.18,0.43,5
+Aya Nguyen 76,"San Francisco, CA",0.12,0.29,3.16,0.63,-87%,0.06,0.26,7
+Jessica Parker 103,"Detroit, MI",0.12,0.29,2.79,0.56,-28%,0.52,0.47,8
+Camila Nelson 261,"Birmingham, AL",0.11,0.27,4.04,0.81,-34%,0.47,0.51,5
+Darnell Evans 774,"Miami, FL",0.21,0.51,3.16,0.63,-68%,0.21,0.39,5
+Sofia Baker 722,"Oklahoma City, OK",0.15,0.37,4.14,0.83,-31%,0.50,0.55,2
+Patricia Mitchell 756,"Milwaukee, WI",0.11,0.27,4.8,0.96,-73%,0.17,0.39,5
+Jamal Williams 584,"Washington, DC",0.27,0.66,2.52,0.51,-72%,0.17,0.38,2
+Michael Robinson 36,"Riverside, CA",0.15,0.37,2.65,0.53,-69%,0.20,0.32,7
+Jamal Lewis 667,"Louisville, KY",0.12,0.29,4.56,0.91,-40%,0.43,0.52,7
+Lakshmi Mohamed 440,"Miami, FL",0.2,0.49,4.63,0.93,-67%,0.21,0.46,3
+Barbara Mitchell 911,"Las Vegas, NV",0.16,0.39,2.93,0.59,-15%,0.63,0.56,3
+Charles Scott 320,"Sacramento, CA",0.19,0.46,4.28,0.86,-70%,0.19,0.43,5
+Layla Campbell 987,"San Francisco, CA",0.12,0.29,4.61,0.92,-83%,0.09,0.35,3
+Patricia Khan 487,"San Diego, CA",0.1,0.24,4.46,0.89,-86%,0.06,0.32,5
+Lucia Williams 206,"Buffalo, NY",0.17,0.41,2.65,0.53,-32%,0.49,0.48,2
+Lucia Allen 892,"Cleveland, OH",0.12,0.29,3.61,0.72,-11%,0.66,0.58,1
+Charles Washington 756,"Grand Rapids, MI",0.26,0.63,2.5,0.50,-47%,0.37,0.47,8
+Anthony Williams 805,"Charlotte, NC",0.18,0.44,4.96,0.99,-8%,0.68,0.70,1
+Christopher Hall 944,"Nashville, TN",0.21,0.51,4.74,0.95,-48%,0.36,0.55,1
+Raj Hill 659,"Raleigh, NC",0.39,0.95,4.84,0.97,-44%,0.40,0.68,1
+Asha Hernandez 786,"Las Vegas, NV",0.16,0.39,4.32,0.87,-33%,0.48,0.56,4
+Jose Garcia 8,"Louisville, KY",0.22,0.54,2.58,0.52,-41%,0.42,0.47,9
+Emily Ramirez 702,"Memphis, TN",0.23,0.56,2.54,0.51,-17%,0.61,0.57,2
+Elizabeth Hassan 112,"Indianapolis, IN",0.14,0.34,4.01,0.80,-77%,0.13,0.35,6
+Lucia Smith 808,"Birmingham, AL",0.16,0.39,3.54,0.71,124%,1.00,0.77,1
+Jose Abdullah 641,"Milwaukee, WI",0.12,0.29,2.02,0.40,-62%,0.25,0.30,8
+Barbara Hall 80,"Cincinnati, OH",0.24,0.59,3.11,0.62,-55%,0.31,0.46,4
+Jessica Davis 673,"Dallas, TX",0.14,0.34,3.29,0.66,-6%,0.70,0.60,1
+Ali Walker 49,"Philadelphia, PA",0.28,0.68,4.42,0.89,-60%,0.27,0.53,3
+Amanda Baker 305,"Sacramento, CA",0.11,0.27,4.86,0.97,-53%,0.32,0.47,3
+Isabella Hill 209,"Grand Rapids, MI",0.41,1.00,4.09,0.82,-32%,0.49,0.70,4
+Ashley Williams 762,"Tampa, FL",0.11,0.27,2.69,0.54,43%,1.00,0.70,2
+Nia Thompson 808,"Atlanta, GA",0.12,0.29,2.97,0.60,-68%,0.21,0.32,3
+Jennifer Jackson 416,"Detroit, MI",0.12,0.29,3.4,0.68,87%,1.00,0.74,3
+Mohammed Khan 756,"Houston, TX",0.17,0.41,2,0.40,16%,0.87,0.64,2
+Mohammed Hernandez 381,"San Diego, CA",0.19,0.46,4.07,0.82,-50%,0.35,0.49,1
+Mary Abdullah 270,"Virginia Beach, VA",0.11,0.27,4.31,0.86,-50%,0.35,0.46,5
+Linda Tran 301,"Dallas, TX",0.15,0.37,3.22,0.65,-12%,0.65,0.58,4
+Lakshmi Mitchell 377,"Miami, FL",0.21,0.51,4.67,0.94,-60%,0.27,0.50,2
+Arjun Williams 858,"Boston, MA",0.14,0.34,3.09,0.62,-86%,0.06,0.27,7
+Ana Smith 902,"Virginia Beach, VA",0.13,0.32,4.68,0.94,20%,0.90,0.76,1
+Camila Robinson 734,"Los Angeles, CA",0.25,0.61,3.59,0.72,-91%,0.02,0.34,3
+Latoya Robinson 601,"Las Vegas, NV",0.13,0.32,4.5,0.90,-63%,0.25,0.43,8
+Jose Hernandez 319,"Austin, TX",0.15,0.37,2.3,0.46,-45%,0.39,0.40,2
+Michael Hernandez 312,"Virginia Beach, VA",0.15,0.37,4.94,0.99,-72%,0.17,0.43,6
+Daniel Mohamed 821,"Austin, TX",0.11,0.27,3.56,0.71,-56%,0.30,0.40,3
+John Tran 129,"Seattle, WA",0.16,0.39,2.83,0.57,-82%,0.09,0.29,6
+Jennifer Baker 996,"Pittsburgh, PA",0.15,0.37,3.95,0.79,19%,0.89,0.74,2
+Mohammed Rodriguez 662,"Providence, RI",0.18,0.44,2.93,0.59,-76%,0.14,0.33,5
+Amanda Khan 445,"Louisville, KY",0.25,0.61,4.69,0.94,-53%,0.32,0.55,5
+Arjun Patel 669,"Memphis, TN",0.19,0.46,4.88,0.98,-17%,0.61,0.66,1
+Latoya Lewis 372,"Seattle, WA",0.19,0.46,4.84,0.97,-61%,0.26,0.49,1
+Jamal Young 798,"Baltimore, MD",0.12,0.29,4.41,0.88,-16%,0.62,0.60,1
+Keisha Baker 331,"St. Louis, MO",0.19,0.46,3.95,0.79,-74%,0.16,0.39,3
+Omar Martinez 412,"New York, NY",0.21,0.51,3.74,0.75,-53%,0.32,0.48,1
+Haruka Rodriguez 572,"Oklahoma City, OK",0.16,0.39,2.56,0.51,-26%,0.54,0.49,3
+Jamal Mohamed 10,"Milwaukee, WI",0.14,0.34,4.35,0.87,-23%,0.56,0.58,3
+Margaret Baker 681,"Richmond, VA",0.31,0.76,4.76,0.95,-58%,0.28,0.57,1
+Kenji Gonzalez 36,"Salt Lake City, UT",0.12,0.29,4.87,0.98,-29%,0.51,0.57,1
+Sarah Clark 855,"Minneapolis, MN",0.17,0.41,2.42,0.48,-67%,0.21,0.33,4
+Malik Torres 608,"San Diego, CA",0.19,0.46,3.64,0.73,-92%,0.02,0.31,7
+Maria White 684,"Milwaukee, WI",0.13,0.32,2.37,0.47,-58%,0.28,0.34,7
+Daniel Evans 449,"Los Angeles, CA",0.2,0.49,3.47,0.70,-88%,0.05,0.32,4
+Emily Tran 396,"Nashville, TN",0.12,0.29,2.91,0.58,-74%,0.16,0.30,2
+Isabella Scott 419,"Pittsburgh, PA",0.17,0.41,3.88,0.78,-66%,0.22,0.41,7
+Tanya Scott 254,"Las Vegas, NV",0.11,0.27,2,0.40,-88%,0.05,0.19,11
+Tyrone Torres 73,"Louisville, KY",0.15,0.37,4.11,0.82,10%,0.82,0.71,2
+Hassan White 249,"Las Vegas, NV",0.16,0.39,3.29,0.66,-62%,0.25,0.39,9
+Sofia Scott 778,"San Antonio, TX",0.27,0.66,3.19,0.64,44%,1.00,0.82,1
+Zainab Ramirez 406,"Grand Rapids, MI",0.26,0.63,4.57,0.92,-62%,0.25,0.51,5
+Carlos Jones 151,"Sacramento, CA",0.23,0.56,2.44,0.49,-45%,0.39,0.46,4
+Dorothy Mohamed 906,"Cleveland, OH",0.23,0.56,2.08,0.42,-52%,0.33,0.41,3
+Matthew Scott 968,"Denver, CO",0.18,0.44,2.25,0.45,-74%,0.16,0.30,4
+Robert Thompson 733,"Philadelphia, PA",0.16,0.39,3.05,0.61,25%,0.94,0.72,1
+Mina Williams 449,"Tampa, FL",0.25,0.61,2.25,0.45,-73%,0.17,0.35,7
+Mei White 978,"Baltimore, MD",0.13,0.32,3.74,0.75,-64%,0.24,0.39,6
+Sarah King 69,"Boston, MA",0.13,0.32,3.25,0.65,-82%,0.09,0.29,4
+Christopher White 33,"Kansas City, MO",0.23,0.56,3.81,0.76,-71%,0.18,0.42,3
+Ling Johnson 386,"Grand Rapids, MI",0.17,0.41,3.84,0.77,20%,0.90,0.75,3
+Amanda Ali 605,"New York, NY",0.2,0.49,2.93,0.59,-79%,0.12,0.33,6
+Priya Tran 39,"Memphis, TN",0.18,0.44,2.61,0.52,-46%,0.38,0.43,3
+Ashley Williams 268,"Columbus, OH",0.18,0.44,2.53,0.51,-13%,0.64,0.56,2
+Robert Adams 868,"Fresno, CA",0.15,0.37,2.65,0.53,-72%,0.17,0.31,6
+Yuki Scott 486,"San Diego, CA",0.12,0.29,3.56,0.71,-79%,0.12,0.31,6
+Sarah Brown 275,"Indianapolis, IN",0.14,0.34,4.85,0.97,-79%,0.12,0.39,5
+Maria Robinson 720,"Dallas, TX",0.16,0.39,3.97,0.80,-20%,0.59,0.59,3
+Michael Washington 13,"San Francisco, CA",0.23,0.56,2.99,0.60,-92%,0.02,0.30,4
+Mina Patel 274,"Fresno, CA",0.18,0.44,4.3,0.86,-58%,0.28,0.47,3
+Joseph Adams 314,"Miami, FL",0.18,0.44,3.37,0.68,-67%,0.21,0.39,6
+Carlos Washington 236,"Grand Rapids, MI",0.13,0.32,4.07,0.82,499%,1.00,0.78,2
+Susan Williams 614,"Orlando, FL",0.17,0.41,2.07,0.41,-57%,0.29,0.35,11
+Isabella Campbell 138,"Nashville, TN",0.13,0.32,2.02,0.40,-67%,0.21,0.29,3
+Malik Baker 977,"Minneapolis, MN",0.14,0.34,2.82,0.57,-48%,0.36,0.41,3
+Jose Kim 59,"San Jose, CA",0.17,0.41,4.07,0.82,-84%,0.08,0.35,4
+Elizabeth Torres 378,"Richmond, VA",0.14,0.34,2.4,0.48,-55%,0.31,0.36,9
+Hana Garcia 716,"Providence, RI",0.22,0.54,2.23,0.45,-77%,0.13,0.31,6
+John Perez 208,"Miami, FL",0.17,0.41,3.96,0.79,-42%,0.41,0.51,1
+Emily Adams 50,"Dallas, TX",0.34,0.83,3.88,0.78,-45%,0.39,0.60,2
+Aya Parker 144,"Charlotte, NC",0.2,0.49,4.58,0.92,-36%,0.46,0.58,3
+Sofia Mohamed 378,"San Diego, CA",0.23,0.56,3.25,0.65,-90%,0.03,0.32,4
+Daniel Martinez 543,"Houston, TX",0.15,0.37,3.18,0.64,-36%,0.46,0.48,6
+Richard Jones 757,"Raleigh, NC",0.13,0.32,4.32,0.87,-39%,0.44,0.51,2
+Luis Adams 676,"San Francisco, CA",0.14,0.34,3.01,0.60,-88%,0.05,0.26,6
+Wei Martinez 31,"Orlando, FL",0.17,0.41,3.32,0.67,-54%,0.32,0.43,8
+Mina Mohamed 5,"Denver, CO",0.14,0.34,2.66,0.53,-80%,0.11,0.27,6
+Asha Young 342,"Providence, RI",0.21,0.51,2.76,0.55,-64%,0.24,0.38,3
+Layla Green 951,"Orlando, FL",0.2,0.49,4.43,0.89,2%,0.76,0.72,2
+Arjun Williams 748,"Houston, TX",0.19,0.46,4.44,0.89,-41%,0.42,0.55,3
+Luis Khan 64,"Cincinnati, OH",0.16,0.39,2.3,0.46,56%,1.00,0.71,1
+Minh Abdullah 51,"Richmond, VA",0.14,0.34,3.79,0.76,-20%,0.59,0.57,2
+Linda Martinez 176,"Jacksonville, FL",0.16,0.39,2.58,0.52,-14%,0.63,0.54,3
+Lakshmi Washington 549,"Tampa, FL",0.25,0.61,4.41,0.88,159%,1.00,0.87,1
+Lakshmi Lewis 467,"Virginia Beach, VA",0.16,0.39,2.14,0.43,-64%,0.24,0.32,8
+Joseph Davis 263,"San Antonio, TX",0.15,0.37,3.77,0.76,-72%,0.17,0.37,4
+Raj Scott 15,"Denver, CO",0.24,0.59,3.91,0.78,-76%,0.14,0.41,2
+Lucia Martinez 1000,"Raleigh, NC",0.15,0.37,3.9,0.78,-38%,0.44,0.51,3
+Amanda Mitchell 568,"Pittsburgh, PA",0.32,0.78,3.99,0.80,-9%,0.67,0.73,3
+Robert Kim 507,"Fresno, CA",0.2,0.49,2.8,0.56,-50%,0.35,0.44,4
+Charles Hall 449,"Minneapolis, MN",0.29,0.71,4.19,0.84,-42%,0.41,0.59,1
+Ahmad Walker 939,"Sacramento, CA",0.28,0.68,4.58,0.92,-71%,0.18,0.49,2
+Ahmad Jones 606,"Providence, RI",0.18,0.44,2.45,0.49,-75%,0.15,0.31,7
+Robert Gonzalez 766,"Fresno, CA",0.11,0.27,2.95,0.59,-87%,0.06,0.24,7
+Minh Allen 562,"New York, NY",0.19,0.46,4.58,0.92,-77%,0.13,0.41,3
+Susan Brown 518,"San Diego, CA",0.15,0.37,2.21,0.44,-51%,0.34,0.37,3
+Jin Hernandez 779,"Oklahoma City, OK",0.15,0.37,4.1,0.82,-55%,0.31,0.45,4
+Lucia Jackson 291,"Richmond, VA",0.12,0.29,4.97,1.00,-50%,0.35,0.50,3
+Tyrone Brown 585,"St. Louis, MO",0.12,0.29,4.73,0.95,-58%,0.28,0.45,2
+Christopher Smith 733,"Dallas, TX",0.2,0.49,3.88,0.78,-77%,0.13,0.38,6
+James Ramirez 768,"Chicago, IL",0.14,0.34,2.26,0.45,-45%,0.39,0.39,3
+Camila Hassan 961,"Indianapolis, IN",0.17,0.41,4.56,0.91,-35%,0.47,0.57,2
+Darnell Hill 510,"Kansas City, MO",0.12,0.29,4.37,0.88,-32%,0.49,0.54,1
+Isabella Johnson 130,"Indianapolis, IN",0.2,0.49,4.65,0.93,-76%,0.14,0.43,4
+Asha Ramirez 876,"Seattle, WA",0.15,0.37,2.58,0.52,-73%,0.17,0.30,5
+Aya Gonzalez 721,"Buffalo, NY",0.11,0.27,3.24,0.65,-68%,0.21,0.33,9
+Tyrone Thompson 561,"Detroit, MI",0.15,0.37,3.59,0.72,2248%,1.00,0.77,2
+Maria Garcia 191,"Atlanta, GA",0.17,0.41,2.86,0.57,-19%,0.59,0.54,1
+Hiroshi Baker 32,"Cleveland, OH",0.18,0.44,3.12,0.63,-30%,0.51,0.52,2
+Charles Gonzalez 840,"Minneapolis, MN",0.11,0.27,2.17,0.43,-60%,0.27,0.31,5
+Tyrone Robinson 873,"Austin, TX",0.12,0.29,2.31,0.46,-53%,0.32,0.35,4
+Charles Evans 796,"San Francisco, CA",0.16,0.39,2.28,0.46,-90%,0.03,0.23,9
+Hao Williams 157,"Richmond, VA",0.22,0.54,3.99,0.80,-59%,0.28,0.47,5
+Christopher Hernandez 92,"Washington, DC",0.14,0.34,2.34,0.47,-47%,0.37,0.39,1
+Carlos Lewis 873,"Pittsburgh, PA",0.14,0.34,3.27,0.66,-35%,0.47,0.48,5
+Barbara Garcia 316,"Charlotte, NC",0.12,0.29,2.15,0.43,-30%,0.51,0.43,6
+Mina Nelson 492,"San Diego, CA",0.13,0.32,3.15,0.63,-85%,0.07,0.27,9
+Linda Carter 866,"Milwaukee, WI",0.19,0.46,2.73,0.55,-36%,0.46,0.48,4
+Barbara Lopez 889,"Columbus, OH",0.11,0.27,4.5,0.90,-12%,0.65,0.62,1
+Takeshi Tran 259,"Orlando, FL",0.11,0.27,4.08,0.82,-54%,0.32,0.43,7
+Margaret Green 54,"Memphis, TN",0.15,0.37,2.5,0.50,-47%,0.37,0.40,4
+Jennifer Ali 41,"Buffalo, NY",0.16,0.39,4.44,0.89,-8%,0.68,0.66,1
+Mei Parker 700,"San Francisco, CA",0.19,0.46,4.14,0.83,-83%,0.09,0.37,2
+Wei Jones 937,"Louisville, KY",0.13,0.32,4.97,1.00,-48%,0.36,0.51,8
+Mina Carter 615,"Tampa, FL",0.1,0.24,3.49,0.70,-54%,0.32,0.39,5
+Zainab Gonzalez 408,"Seattle, WA",0.1,0.24,3.01,0.60,-79%,0.12,0.27,7
+Luis Perez 521,"Jacksonville, FL",0.31,0.76,3.4,0.68,-55%,0.31,0.51,4
+Jennifer Martinez 452,"Jacksonville, FL",0.32,0.78,2.55,0.51,-33%,0.48,0.56,2
+Ahmad Campbell 232,"Seattle, WA",0.16,0.39,3.84,0.77,-50%,0.35,0.46,2
+Maria Clark 358,"Milwaukee, WI",0.12,0.29,2.64,0.53,-52%,0.33,0.37,6
+Jennifer Torres 363,"Grand Rapids, MI",0.12,0.29,2.07,0.41,-12%,0.65,0.50,6
+Ling Robinson 117,"Louisville, KY",0.17,0.41,2.7,0.54,-9%,0.67,0.58,4
+Sarah Ramirez 313,"Buffalo, NY",0.23,0.56,2.86,0.57,-45%,0.39,0.48,3
+James Jackson 628,"Riverside, CA",0.14,0.34,4.45,0.89,-50%,0.35,0.48,2
+Sarah Carter 702,"Richmond, VA",0.14,0.34,3,0.60,-43%,0.40,0.44,8
+David Nguyen 46,"Birmingham, AL",0.26,0.63,3.33,0.67,-13%,0.64,0.65,3
+Asha Khan 413,"Grand Rapids, MI",0.21,0.51,4.91,0.98,-78%,0.13,0.44,9
+Miguel King 193,"Los Angeles, CA",0.16,0.39,2.98,0.60,-87%,0.06,0.27,7
+Priya Hassan 439,"Grand Rapids, MI",0.27,0.66,2.2,0.44,-42%,0.41,0.48,7
+Amanda Gonzalez 142,"Seattle, WA",0.12,0.29,2.78,0.56,-86%,0.06,0.24,8
+Imani Thompson 24,"Buffalo, NY",0.11,0.27,2.18,0.44,-34%,0.47,0.41,7
+Keisha Torres 908,"Orlando, FL",0.17,0.41,4.51,0.90,-33%,0.48,0.57,5
+Camila Hill 390,"Los Angeles, CA",0.15,0.37,3.36,0.67,-83%,0.09,0.30,5
+Omar Jones 349,"Philadelphia, PA",0.12,0.29,4,0.80,-59%,0.28,0.41,8
+Anthony Lewis 479,"Salt Lake City, UT",0.12,0.29,4.55,0.91,-71%,0.18,0.39,5
+Tyrone Nguyen 559,"Buffalo, NY",0.13,0.32,2.94,0.59,-59%,0.28,0.37,8
+Asha Scott 728,"Detroit, MI",0.15,0.37,2.99,0.60,94%,1.00,0.74,4
+Jason Nguyen 698,"Pittsburgh, PA",0.2,0.49,3.53,0.71,36%,1.00,0.80,1
+Zainab Ali 566,"Philadelphia, PA",0.12,0.29,3.57,0.72,-52%,0.33,0.42,7
+Mary Baker 972,"Boston, MA",0.21,0.51,4.99,1.00,-90%,0.03,0.39,1
+Kenji Parker 198,"Buffalo, NY",0.18,0.44,2.61,0.52,-41%,0.42,0.45,5
+Yuki Adams 285,"Portland, OR",0.13,0.32,2.19,0.44,92%,1.00,0.69,1
+Hassan Garcia 655,"Detroit, MI",0.18,0.44,2.08,0.42,-56%,0.30,0.36,11
+Richard Harris 829,"Phoenix, AZ",0.2,0.49,4.75,0.95,-45%,0.39,0.55,1
+Hiroshi Baker 812,"Cincinnati, OH",0.14,0.34,3.05,0.61,-53%,0.32,0.40,5
+Ashley Hernandez 333,"San Antonio, TX",0.13,0.32,2.73,0.55,-16%,0.62,0.52,2
+Matthew Rodriguez 166,"Baltimore, MD",0.23,0.56,2.68,0.54,-25%,0.55,0.55,2
+Hassan Campbell 258,"Kansas City, MO",0.21,0.51,2.19,0.44,-50%,0.35,0.41,4
+John Walker 849,"Richmond, VA",0.14,0.34,4.88,0.98,-66%,0.22,0.44,7
+Hassan Lewis 806,"Miami, FL",0.25,0.61,2.5,0.50,-77%,0.13,0.34,7
+Yuki Lewis 798,"Boston, MA",0.14,0.34,2.75,0.55,-80%,0.11,0.28,5
+Patricia Carter 732,"Riverside, CA",0.13,0.32,4.06,0.81,-76%,0.14,0.35,6
+Jessica Hall 530,"Phoenix, AZ",0.17,0.41,2.57,0.52,-43%,0.40,0.43,6
+Hassan Washington 575,"Birmingham, AL",0.22,0.54,3.4,0.68,11%,0.83,0.72,2
+Matthew Campbell 115,"Riverside, CA",0.11,0.27,2.91,0.58,-67%,0.21,0.32,8
+Sarah Ramirez 872,"Louisville, KY",0.21,0.51,3.95,0.79,49%,1.00,0.83,1
+Amanda Young 904,"Riverside, CA",0.31,0.76,3.45,0.69,-89%,0.04,0.38,5
+Tanya Hill 978,"Baltimore, MD",0.22,0.54,3.34,0.67,-74%,0.16,0.38,7
+Joseph Tran 727,"Pittsburgh, PA",0.16,0.39,2.85,0.57,-42%,0.41,0.45,6
+Arjun Garcia 648,"Virginia Beach, VA",0.13,0.32,3.36,0.67,-26%,0.54,0.52,2
+Patricia Hall 86,"Cincinnati, OH",0.19,0.46,4.26,0.85,-41%,0.42,0.54,2
+Jin King 345,"New York, NY",0.18,0.44,2.25,0.45,-44%,0.40,0.42,2
+Jennifer Garcia 535,"Los Angeles, CA",0.11,0.27,2.49,0.50,-74%,0.16,0.27,8
+James Ramirez 563,"Charlotte, NC",0.21,0.51,2.46,0.49,-44%,0.40,0.45,5
+Kwame Jackson 770,"Detroit, MI",0.12,0.29,4.01,0.80,-48%,0.36,0.46,10
+Emily Kim 494,"San Jose, CA",0.13,0.32,3.86,0.77,-68%,0.21,0.38,2
+Lakshmi Williams 238,"Jacksonville, FL",0.11,0.27,3.47,0.70,-70%,0.19,0.34,5
+Mina Walker 353,"Las Vegas, NV",0.14,0.34,4.29,0.86,-58%,0.28,0.44,6
+Carlos Young 28,"Riverside, CA",0.37,0.90,4.27,0.86,-80%,0.11,0.49,1
+Minh Harris 725,"Tampa, FL",0.31,0.76,3.09,0.62,-60%,0.27,0.48,4
+Mei Gonzalez 602,"Providence, RI",0.2,0.49,2.74,0.55,-64%,0.24,0.38,4
+Aisha Washington 804,"San Antonio, TX",0.13,0.32,3.46,0.69,-49%,0.36,0.43,3
+Miguel Williams 122,"Orlando, FL",0.14,0.34,3.33,0.67,-1%,0.74,0.62,4
+Omar Adams 646,"Denver, CO",0.17,0.41,4.71,0.94,-81%,0.10,0.39,3
+Hassan Mohamed 220,"Denver, CO",0.13,0.32,2.62,0.53,-85%,0.07,0.25,7
+Thomas Nelson 153,"Houston, TX",0.22,0.54,4.78,0.96,-52%,0.33,0.54,4
+Robert Jones 846,"Boston, MA",0.17,0.41,3.23,0.65,-67%,0.21,0.37,2
+Susan Scott 489,"Houston, TX",0.14,0.34,4.49,0.90,9%,0.81,0.72,1
+Sofia Nelson 918,"Fresno, CA",0.18,0.44,2.62,0.53,-11%,0.66,0.57,1
+Juan Baker 280,"Minneapolis, MN",0.13,0.32,2.43,0.49,-10%,0.66,0.53,2
+Lucia Patel 846,"Baltimore, MD",0.13,0.32,2.4,0.48,-38%,0.44,0.42,4
+Mary Campbell 436,"Chicago, IL",0.26,0.63,3.07,0.62,-44%,0.40,0.51,1
+Jin Campbell 783,"Philadelphia, PA",0.26,0.63,4.15,0.83,-48%,0.36,0.55,2
+Keisha Mitchell 474,"Detroit, MI",0.33,0.80,2.78,0.56,-21%,0.58,0.63,5
+Yuki White 832,"Riverside, CA",0.12,0.29,2.94,0.59,-31%,0.50,0.47,3
+Nia Baker 810,"Oklahoma City, OK",0.21,0.51,3.6,0.72,108%,1.00,0.81,1
+David Nelson 259,"Orlando, FL",0.22,0.54,4.62,0.93,30%,0.98,0.86,1
+Lakshmi Young 759,"Baltimore, MD",0.18,0.44,2.52,0.51,-63%,0.25,0.36,8
+Anthony Jones 939,"Riverside, CA",0.14,0.34,4.63,0.93,-76%,0.14,0.39,4
+Mary Campbell 694,"Richmond, VA",0.13,0.32,3.35,0.67,-36%,0.46,0.48,4
+Haruka Ali 501,"Milwaukee, WI",0.25,0.61,3,0.60,-1%,0.74,0.67,2
+Emily Hernandez 789,"Indianapolis, IN",0.37,0.90,2.67,0.54,-57%,0.29,0.51,3
+Latoya Evans 846,"Charlotte, NC",0.13,0.32,2.65,0.53,-15%,0.63,0.52,4
+Margaret Parker 125,"Louisville, KY",0.11,0.27,2.45,0.49,-58%,0.28,0.33,11
+Aisha Nelson 239,"Austin, TX",0.12,0.29,2.17,0.43,-74%,0.16,0.26,5
+Michael Hill 333,"New York, NY",0.16,0.39,4.46,0.89,-71%,0.18,0.41,4
+Malik Evans 912,"Las Vegas, NV",0.19,0.46,4.22,0.85,-67%,0.21,0.43,7
+Zainab Lewis 426,"Cincinnati, OH",0.12,0.29,2.91,0.58,-24%,0.55,0.50,3
+Jose Mitchell 887,"Philadelphia, PA",0.14,0.34,2.35,0.47,-37%,0.45,0.43,6
+Imani White 686,"Boston, MA",0.12,0.29,4.8,0.96,-84%,0.08,0.35,3
+Ebony Mohamed 932,"Tampa, FL",0.15,0.37,3.32,0.67,-71%,0.18,0.35,6
+Linda Jackson 955,"Birmingham, AL",0.15,0.37,4.28,0.86,-43%,0.40,0.51,4
+Ashley Adams 313,"Sacramento, CA",0.16,0.39,2.78,0.56,-52%,0.33,0.40,6
+Layla Washington 322,"San Diego, CA",0.11,0.27,3.3,0.66,-56%,0.30,0.38,2
+Fatima Torres 23,"Riverside, CA",0.12,0.29,2.65,0.53,-71%,0.18,0.30,9
+Asha Perez 333,"Philadelphia, PA",0.16,0.39,2.54,0.51,-30%,0.51,0.48,4
+Luis Davis 562,"Louisville, KY",0.24,0.59,2.09,0.42,-54%,0.32,0.41,10
+Fatima Evans 540,"Kansas City, MO",0.14,0.34,3.25,0.65,-62%,0.25,0.37,7
+Kwame Ramirez 69,"San Jose, CA",0.16,0.39,4.99,1.00,-92%,0.02,0.36,3
+Mei Parker 844,"Louisville, KY",0.2,0.49,4.99,1.00,-42%,0.41,0.58,3
+Jin Hall 684,"Miami, FL",0.14,0.34,4.74,0.95,-64%,0.24,0.44,4
+Daniel Carter 403,"Providence, RI",0.15,0.37,3.66,0.73,4%,0.78,0.66,1

@@ -1,0 +1,334 @@
+Agent,Agent ID,Market ID,Market,2024 Buyer Closes,2024 Buyers Sent,2024 Buyer Conversion,2024 Seller Closes,2024 Seller Sent,2024 Seller Conversion,2024 Total Closes,2024 Total Sent,2024 Total Conversion,Customer Review Count,Avg Customer Rating,Total Value Sold,2025 Sales Count,Avg Price Sold,Market Median,Diff from Median
+Kwame Singh 576,kwame_singh_576,salt_lake_city_ut,"Salt Lake City, UT",16,141,0.11,25,73,0.34,41,214,0.19,6,2.58,9654213.00,21,459724.43,552000.00,-17%
+Hao Jackson 527,hao_jackson_527,st_louis_mo,"St. Louis, MO",1,7,0.14,40,272,0.15,41,279,0.15,6,2.00,4807668.00,9,534185.33,285000.00,87%
+Malik Mitchell 314,malik_mitchell_314,detroit_mi,"Detroit, MI",27,147,0.18,48,97,0.49,75,244,0.31,7,3.24,3628692.00,7,518384.57,205878.00,152%
+Tanya Young 212,tanya_young_212,las_vegas_nv,"Las Vegas, NV",27,160,0.17,11,67,0.16,38,227,0.17,6,3.20,5954024.00,13,458001.85,440000.00,4%
+Yuki Ali 72,yuki_ali_72,fresno_ca,"Fresno, CA",28,167,0.17,49,231,0.21,77,398,0.19,11,3.44,6740976.00,14,481498.29,437000.00,10%
+Arjun Robinson 452,arjun_robinson_452,atlanta_ga,"Atlanta, GA",6,45,0.13,44,181,0.24,50,226,0.22,7,2.92,11110984.00,24,462957.67,395000.00,17%
+Kenji Hernandez 461,kenji_hernandez_461,baltimore_md,"Baltimore, MD",13,49,0.27,48,311,0.15,61,360,0.17,12,3.21,9034126.00,19,475480.32,393506.00,21%
+Layla White 873,layla_white_873,portland_or,"Portland, OR",5,20,0.25,35,153,0.23,40,173,0.23,6,3.12,9360005.00,18,520000.28,550874.00,-6%
+Ebony Nelson 385,ebony_nelson_385,virginia_beach_va,"Virginia Beach, VA",6,46,0.13,50,290,0.17,56,336,0.17,8,4.48,7177396.00,15,478493.07,368800.00,30%
+Mina Hill 351,mina_hill_351,fresno_ca,"Fresno, CA",19,164,0.12,42,113,0.37,61,277,0.22,9,4.56,7023141.00,15,468209.40,437000.00,7%
+Michael Lewis 922,michael_lewis_922,orlando_fl,"Orlando, FL",24,168,0.14,42,375,0.11,66,543,0.12,12,3.82,6770718.00,13,520824.46,410349.00,27%
+Wei Adams 970,wei_adams_970,grand_rapids_mi,"Grand Rapids, MI",26,152,0.17,17,67,0.25,43,219,0.20,7,4.34,7372097.00,14,526578.36,355500.00,48%
+Barbara Young 959,barbara_young_959,detroit_mi,"Detroit, MI",24,144,0.17,44,130,0.34,68,274,0.25,7,4.98,4671927.00,9,519103.00,205878.00,152%
+Michael Robinson 545,michael_robinson_545,salt_lake_city_ut,"Salt Lake City, UT",7,69,0.10,44,140,0.31,51,209,0.24,10,3.16,6017258.00,12,501438.17,552000.00,-9%
+Asha Ramirez 805,asha_ramirez_805,miami_fl,"Miami, FL",8,54,0.15,38,278,0.14,46,332,0.14,8,2.26,5475333.00,10,547533.30,560000.00,-2%
+Mary Ramirez 279,mary_ramirez_279,indianapolis_in,"Indianapolis, IN",29,215,0.13,9,48,0.19,38,263,0.14,7,3.79,4728651.00,10,472865.10,311372.00,52%
+Zainab Abdullah 560,zainab_abdullah_560,providence_ri,"Providence, RI",5,26,0.19,39,114,0.34,44,140,0.31,6,3.37,10479025.00,21,499001.19,524062.00,-5%
+Robert Lewis 585,robert_lewis_585,grand_rapids_mi,"Grand Rapids, MI",27,161,0.17,40,202,0.20,67,363,0.18,12,3.34,4280333.00,10,428033.30,355500.00,20%
+Aisha Smith 672,aisha_smith_672,chicago_il,"Chicago, IL",9,84,0.11,32,195,0.16,41,279,0.15,6,2.66,8018786.00,17,471693.29,360000.00,31%
+Dorothy Robinson 743,dorothy_robinson_743,san_francisco_ca,"San Francisco, CA",20,74,0.27,40,277,0.14,60,351,0.17,11,3.09,5066634.00,11,460603.09,1482500.00,-69%
+Elizabeth Davis 895,elizabeth_davis_895,orlando_fl,"Orlando, FL",13,83,0.16,24,218,0.11,37,301,0.12,6,4.78,6274662.00,14,448190.14,410349.00,9%
+Hiroshi Singh 927,hiroshi_singh_927,kansas_city_mo,"Kansas City, MO",29,179,0.16,31,143,0.22,60,322,0.19,9,2.21,5453439.00,13,419495.31,349900.00,20%
+Mei Nguyen 346,mei_nguyen_346,salt_lake_city_ut,"Salt Lake City, UT",25,239,0.10,34,173,0.20,59,412,0.14,6,3.38,10958449.00,23,476454.30,552000.00,-14%
+Hao Kim 684,hao_kim_684,seattle_wa,"Seattle, WA",7,68,0.10,27,166,0.16,34,234,0.15,6,3.39,10430898.00,19,548994.63,832871.00,-34%
+Christopher Harris 499,christopher_harris_499,kansas_city_mo,"Kansas City, MO",16,116,0.14,41,410,0.10,57,526,0.11,6,2.17,6224317.00,11,565847.00,349900.00,62%
+Yuki Lewis 420,yuki_lewis_420,buffalo_ny,"Buffalo, NY",9,45,0.20,45,423,0.11,54,468,0.12,8,4.62,5649777.00,12,470814.75,290000.00,62%
+Ebony Mitchell 272,ebony_mitchell_272,salt_lake_city_ut,"Salt Lake City, UT",12,116,0.10,27,244,0.11,39,360,0.11,6,3.77,8754370.00,17,514962.94,552000.00,-7%
+Barbara Hernandez 388,barbara_hernandez_388,philadelphia_pa,"Philadelphia, PA",21,166,0.13,35,188,0.19,56,354,0.16,6,2.70,5759106.00,12,479925.50,280000.00,71%
+Amanda Hall 792,amanda_hall_792,new_york_ny,"New York, NY",11,45,0.24,50,208,0.24,61,253,0.24,10,3.13,4593192.00,9,510354.67,785000.00,-35%
+Ling Parker 768,ling_parker_768,denver_co,"Denver, CO",17,159,0.11,19,172,0.11,36,331,0.11,6,4.51,6983219.00,14,498801.36,591083.00,-16%
+Jason Garcia 337,jason_garcia_337,boston_ma,"Boston, MA",28,93,0.30,33,209,0.16,61,302,0.20,12,2.10,4415094.00,9,490566.00,733673.00,-33%
+Jessica Garcia 415,jessica_garcia_415,las_vegas_nv,"Las Vegas, NV",17,56,0.30,39,209,0.19,56,265,0.21,6,4.61,7449102.00,15,496606.80,440000.00,13%
+Emily Gonzalez 560,emily_gonzalez_560,houston_tx,"Houston, TX",24,194,0.12,47,384,0.12,71,578,0.12,11,4.48,10198507.00,21,485643.19,329900.00,47%
+Latoya Lewis 862,latoya_lewis_862,denver_co,"Denver, CO",29,288,0.10,48,405,0.12,77,693,0.11,6,3.60,4828230.00,12,402352.50,591083.00,-32%
+Jin Carter 761,jin_carter_761,sacramento_ca,"Sacramento, CA",30,180,0.17,26,91,0.29,56,271,0.21,7,4.79,9149116.00,19,481532.42,583913.00,-18%
+Maria Lewis 193,maria_lewis_193,pittsburgh_pa,"Pittsburgh, PA",26,84,0.31,36,187,0.19,62,271,0.23,6,4.75,5963783.00,13,458752.54,250000.00,84%
+Minh Mohamed 224,minh_mohamed_224,virginia_beach_va,"Virginia Beach, VA",30,105,0.29,30,255,0.12,60,360,0.17,12,4.27,5433086.00,12,452757.17,368800.00,23%
+Takeshi Evans 952,takeshi_evans_952,san_francisco_ca,"San Francisco, CA",14,48,0.29,48,317,0.15,62,365,0.17,11,2.66,6501314.00,14,464379.57,1482500.00,-69%
+Haruka Khan 777,haruka_khan_777,birmingham_al,"Birmingham, AL",7,46,0.15,44,429,0.10,51,475,0.11,7,4.41,7550742.00,15,503382.80,305370.00,65%
+Joseph Evans 855,joseph_evans_855,phoenix_az,"Phoenix, AZ",28,229,0.12,39,356,0.11,67,585,0.11,12,4.12,8656366.00,18,480909.22,465000.00,3%
+Michael Lewis 39,michael_lewis_39,san_francisco_ca,"San Francisco, CA",21,144,0.15,18,75,0.24,39,219,0.18,7,4.95,3727830.00,9,414203.33,1482500.00,-72%
+Luis Green 96,luis_green_96,richmond_va,"Richmond, VA",26,178,0.15,49,316,0.16,75,494,0.15,8,2.60,6086400.00,12,507200.00,395000.00,28%
+Zainab Torres 559,zainab_torres_559,salt_lake_city_ut,"Salt Lake City, UT",28,264,0.11,33,276,0.12,61,540,0.11,12,3.56,6351526.00,13,488578.92,552000.00,-11%
+Daniel Ramirez 638,daniel_ramirez_638,pittsburgh_pa,"Pittsburgh, PA",11,53,0.21,44,411,0.11,55,464,0.12,6,2.12,6981976.00,14,498712.57,250000.00,99%
+Mei Washington 208,mei_washington_208,st_louis_mo,"St. Louis, MO",30,293,0.10,7,64,0.11,37,357,0.10,7,2.07,8092245.00,16,505765.31,285000.00,77%
+Michael Garcia 49,michael_garcia_49,jacksonville_fl,"Jacksonville, FL",28,268,0.10,19,173,0.11,47,441,0.11,9,4.49,7026446.00,15,468429.73,365000.00,28%
+Priya Young 89,priya_young_89,los_angeles_ca,"Los Angeles, CA",24,135,0.18,21,141,0.15,45,276,0.16,6,2.65,10702076.00,23,465307.65,915000.00,-49%
+Charles Adams 753,charles_adams_753,phoenix_az,"Phoenix, AZ",24,152,0.16,35,299,0.12,59,451,0.13,9,3.59,10869364.00,23,472581.04,465000.00,2%
+Camila Singh 380,camila_singh_380,las_vegas_nv,"Las Vegas, NV",17,150,0.11,36,75,0.48,53,225,0.24,7,3.59,12409636.00,27,459616.15,440000.00,4%
+Jamal Thompson 459,jamal_thompson_459,kansas_city_mo,"Kansas City, MO",28,186,0.15,49,456,0.11,77,642,0.12,15,2.87,8806368.00,18,489242.67,349900.00,40%
+Mei Tran 609,mei_tran_609,birmingham_al,"Birmingham, AL",24,88,0.27,44,335,0.13,68,423,0.16,11,3.51,5690354.00,12,474196.17,305370.00,55%
+Priya Mohamed 314,priya_mohamed_314,richmond_va,"Richmond, VA",24,154,0.16,30,222,0.14,54,376,0.14,6,2.58,8249120.00,19,434164.21,395000.00,10%
+Minh Kim 554,minh_kim_554,tampa_fl,"Tampa, FL",13,90,0.14,45,426,0.11,58,516,0.11,10,4.91,9021676.00,18,501204.22,369291.00,36%
+Anthony Ali 118,anthony_ali_118,seattle_wa,"Seattle, WA",30,97,0.31,44,213,0.21,74,310,0.24,7,3.78,4705680.00,10,470568.00,832871.00,-44%
+Patricia Campbell 460,patricia_campbell_460,san_jose_ca,"San Jose, CA",30,184,0.16,36,106,0.34,66,290,0.23,10,4.23,8948919.00,18,497162.17,1632174.00,-70%
+Aisha Lopez 898,aisha_lopez_898,austin_tx,"Austin, TX",13,87,0.15,31,90,0.34,44,177,0.25,7,3.00,7811325.00,17,459489.71,430657.00,7%
+Mina Jackson 2,mina_jackson_2,raleigh_nc,"Raleigh, NC",11,41,0.27,30,292,0.10,41,333,0.12,8,2.03,8196145.00,18,455341.39,437500.00,4%
+Malik Rodriguez 436,malik_rodriguez_436,detroit_mi,"Detroit, MI",29,238,0.12,33,293,0.11,62,531,0.12,8,2.09,5723046.00,12,476920.50,205878.00,132%
+Daniel Smith 15,daniel_smith_15,houston_tx,"Houston, TX",25,102,0.25,50,284,0.18,75,386,0.19,10,3.22,6502737.00,14,464481.21,329900.00,41%
+Lakshmi Nelson 232,lakshmi_nelson_232,las_vegas_nv,"Las Vegas, NV",28,274,0.10,42,414,0.10,70,688,0.10,9,2.31,5931060.00,14,423647.14,440000.00,-4%
+Daniel Harris 477,daniel_harris_477,milwaukee_wi,"Milwaukee, WI",30,263,0.11,8,29,0.28,38,292,0.13,7,2.25,8926820.00,17,525107.06,360000.00,46%
+Charles Jones 839,charles_jones_839,salt_lake_city_ut,"Salt Lake City, UT",12,105,0.11,41,98,0.42,53,203,0.26,9,3.22,2670957.00,7,381565.29,552000.00,-31%
+Keisha Ramirez 453,keisha_ramirez_453,charlotte_nc,"Charlotte, NC",18,152,0.12,27,96,0.28,45,248,0.18,8,2.04,12253546.00,26,471290.23,412466.00,14%
+Miguel Adams 229,miguel_adams_229,los_angeles_ca,"Los Angeles, CA",22,135,0.16,34,181,0.19,56,316,0.18,11,2.59,6883012.00,14,491643.71,915000.00,-46%
+Hiroshi Nelson 577,hiroshi_nelson_577,orlando_fl,"Orlando, FL",15,138,0.11,36,89,0.40,51,227,0.22,8,2.40,5729815.00,12,477484.58,410349.00,16%
+Tanya Walker 782,tanya_walker_782,san_diego_ca,"San Diego, CA",26,165,0.16,34,306,0.11,60,471,0.13,6,2.29,3439298.00,7,491328.29,899450.00,-45%
+Aisha Perez 62,aisha_perez_62,san_diego_ca,"San Diego, CA",21,178,0.12,38,378,0.10,59,556,0.11,7,4.37,2004920.00,4,501230.00,899450.00,-44%
+Haruka Mitchell 361,haruka_mitchell_361,buffalo_ny,"Buffalo, NY",28,183,0.15,47,294,0.16,75,477,0.16,9,3.53,6161676.00,15,410778.40,290000.00,42%
+Mei Brown 300,mei_brown_300,portland_or,"Portland, OR",23,206,0.11,29,244,0.12,52,450,0.12,7,2.43,5257471.00,13,404420.85,550874.00,-27%
+Isabella Torres 56,isabella_torres_56,san_jose_ca,"San Jose, CA",22,189,0.12,22,152,0.14,44,341,0.13,7,2.06,4280984.00,9,475664.89,1632174.00,-71%
+Jason Allen 167,jason_allen_167,baltimore_md,"Baltimore, MD",9,32,0.28,45,309,0.15,54,341,0.16,8,3.43,6369990.00,12,530832.50,393506.00,35%
+Kenji Clark 504,kenji_clark_504,raleigh_nc,"Raleigh, NC",13,65,0.20,44,297,0.15,57,362,0.16,6,3.29,8189376.00,17,481728.00,437500.00,10%
+James Campbell 857,james_campbell_857,los_angeles_ca,"Los Angeles, CA",20,179,0.11,37,111,0.33,57,290,0.20,9,2.59,10063844.00,19,529676.00,915000.00,-42%
+Omar Mohamed 103,omar_mohamed_103,kansas_city_mo,"Kansas City, MO",12,39,0.31,43,271,0.16,55,310,0.18,8,4.23,7858995.00,16,491187.19,349900.00,40%
+Aisha Abdullah 290,aisha_abdullah_290,phoenix_az,"Phoenix, AZ",28,133,0.21,29,261,0.11,57,394,0.14,6,2.93,8372224.00,18,465123.56,465000.00,0%
+Tyrone Jones 289,tyrone_jones_289,louisville_ky,"Louisville, KY",25,124,0.20,47,146,0.32,72,270,0.27,6,4.89,4591750.00,10,459175.00,280000.00,64%
+Juan Hill 434,juan_hill_434,san_jose_ca,"San Jose, CA",26,119,0.22,42,379,0.11,68,498,0.14,9,4.76,7171490.00,16,448218.13,1632174.00,-73%
+Christopher Smith 806,christopher_smith_806,orlando_fl,"Orlando, FL",25,150,0.17,21,57,0.37,46,207,0.22,8,3.62,7425017.00,14,530358.36,410349.00,29%
+Jessica Mitchell 182,jessica_mitchell_182,virginia_beach_va,"Virginia Beach, VA",28,267,0.10,45,412,0.11,73,679,0.11,12,4.00,5452395.00,12,454366.25,368800.00,23%
+Jin Harris 955,jin_harris_955,new_york_ny,"New York, NY",22,123,0.18,41,87,0.47,63,210,0.30,7,3.96,2464387.00,5,492877.40,785000.00,-37%
+Jamal Brown 791,jamal_brown_791,detroit_mi,"Detroit, MI",22,75,0.29,31,260,0.12,53,335,0.16,10,3.86,9313531.00,18,517418.39,205878.00,151%
+Charles Green 824,charles_green_824,phoenix_az,"Phoenix, AZ",11,82,0.13,34,243,0.14,45,325,0.14,7,3.41,9480385.00,20,474019.25,465000.00,2%
+Patricia Young 347,patricia_young_347,dallas_tx,"Dallas, TX",22,69,0.32,35,91,0.38,57,160,0.36,11,2.40,4081050.00,10,408105.00,408386.00,0%
+Aya Nguyen 76,aya_nguyen_76,san_francisco_ca,"San Francisco, CA",4,35,0.11,37,302,0.12,41,337,0.12,7,3.16,6963831.00,14,497416.50,1482500.00,-66%
+Jessica Parker 103,jessica_parker_103,detroit_mi,"Detroit, MI",14,84,0.17,39,341,0.11,53,425,0.12,7,2.79,5752728.00,13,442517.54,205878.00,115%
+Camila Nelson 261,camila_nelson_261,birmingham_al,"Birmingham, AL",30,276,0.11,31,298,0.10,61,574,0.11,9,4.04,6282210.00,13,483246.92,305370.00,58%
+Darnell Evans 774,darnell_evans_774,miami_fl,"Miami, FL",8,39,0.21,34,160,0.21,42,199,0.21,8,3.16,6169210.00,12,514100.83,560000.00,-8%
+Sofia Baker 722,sofia_baker_722,oklahoma_city_ok,"Oklahoma City, OK",21,116,0.18,41,302,0.14,62,418,0.15,9,4.14,7601432.00,15,506762.13,268000.00,89%
+Patricia Mitchell 756,patricia_mitchell_756,milwaukee_wi,"Milwaukee, WI",24,187,0.13,42,406,0.10,66,593,0.11,10,4.80,4009167.00,8,501145.88,360000.00,39%
+Jamal Williams 584,jamal_williams_584,washington_dc,"Washington, DC",18,88,0.20,40,130,0.31,58,218,0.27,7,2.52,6596837.00,15,439789.13,580748.00,-24%
+Michael Robinson 36,michael_robinson_36,riverside_ca,"Riverside, CA",22,170,0.13,12,57,0.21,34,227,0.15,6,2.65,2146784.00,4,536696.00,585960.00,-8%
+Jamal Lewis 667,jamal_lewis_667,louisville_ky,"Louisville, KY",19,190,0.10,47,380,0.12,66,570,0.12,10,4.56,7957618.00,15,530507.87,280000.00,89%
+Lakshmi Mohamed 440,lakshmi_mohamed_440,miami_fl,"Miami, FL",24,170,0.14,47,184,0.26,71,354,0.20,12,4.63,8619745.00,18,478874.72,560000.00,-14%
+Barbara Mitchell 911,barbara_mitchell_911,las_vegas_nv,"Las Vegas, NV",26,177,0.15,19,107,0.18,45,284,0.16,9,2.93,7145324.00,15,476354.93,440000.00,8%
+Charles Scott 320,charles_scott_320,sacramento_ca,"Sacramento, CA",17,76,0.22,42,230,0.18,59,306,0.19,11,4.28,7300907.00,15,486727.13,583913.00,-17%
+Layla Campbell 987,layla_campbell_987,san_francisco_ca,"San Francisco, CA",17,136,0.13,34,287,0.12,51,423,0.12,9,4.61,8593591.00,19,452294.26,1482500.00,-69%
+Patricia Khan 487,patricia_khan_487,san_diego_ca,"San Diego, CA",1,8,0.13,41,407,0.10,42,415,0.10,7,4.46,5006593.00,10,500659.30,899450.00,-44%
+Lucia Williams 206,lucia_williams_206,buffalo_ny,"Buffalo, NY",26,221,0.12,24,65,0.37,50,286,0.17,7,2.65,4708530.00,11,428048.18,290000.00,48%
+Lucia Allen 892,lucia_allen_892,cleveland_oh,"Cleveland, OH",1,8,0.13,40,343,0.12,41,351,0.12,6,3.61,8711592.00,18,483977.33,243539.00,99%
+Charles Washington 756,charles_washington_756,grand_rapids_mi,"Grand Rapids, MI",20,71,0.28,34,138,0.25,54,209,0.26,10,2.50,6456643.00,12,538053.58,355500.00,51%
+Anthony Williams 805,anthony_williams_805,charlotte_nc,"Charlotte, NC",11,94,0.12,37,178,0.21,48,272,0.18,7,4.96,14075699.00,27,521322.19,412466.00,26%
+Christopher Hall 944,christopher_hall_944,nashville_tn,"Nashville, TN",19,122,0.16,28,106,0.26,47,228,0.21,8,4.74,6612861.00,14,472347.21,455000.00,4%
+Raj Hill 659,raj_hill_659,raleigh_nc,"Raleigh, NC",3,12,0.25,43,105,0.41,46,117,0.39,9,4.84,10448478.00,21,497546.57,437500.00,14%
+Asha Hernandez 786,asha_hernandez_786,las_vegas_nv,"Las Vegas, NV",27,143,0.19,21,153,0.14,48,296,0.16,8,4.32,6197830.00,15,413188.67,440000.00,-6%
+Jose Garcia 8,jose_garcia_8,louisville_ky,"Louisville, KY",26,97,0.27,38,188,0.20,64,285,0.22,9,2.58,6265097.00,12,522091.42,280000.00,86%
+Emily Ramirez 702,emily_ramirez_702,memphis_tn,"Memphis, TN",9,89,0.10,34,99,0.34,43,188,0.23,7,2.54,8474910.00,18,470828.33,300000.00,57%
+Elizabeth Hassan 112,elizabeth_hassan_112,indianapolis_in,"Indianapolis, IN",9,90,0.10,48,312,0.15,57,402,0.14,8,4.01,3463685.00,7,494812.14,311372.00,59%
+Lucia Smith 808,lucia_smith_808,birmingham_al,"Birmingham, AL",29,242,0.12,13,28,0.46,42,270,0.16,8,3.54,8894945.00,20,444747.25,305370.00,46%
+Jose Abdullah 641,jose_abdullah_641,milwaukee_wi,"Milwaukee, WI",27,169,0.16,43,410,0.10,70,579,0.12,14,2.02,5852758.00,12,487729.83,360000.00,35%
+Barbara Hall 80,barbara_hall_80,cincinnati_oh,"Cincinnati, OH",13,118,0.11,42,111,0.38,55,229,0.24,8,3.11,5743572.00,12,478631.00,304890.00,57%
+Jessica Davis 673,jessica_davis_673,dallas_tx,"Dallas, TX",30,274,0.11,15,54,0.28,45,328,0.14,7,3.29,5751644.00,12,479303.67,408386.00,17%
+Ali Walker 49,ali_walker_49,philadelphia_pa,"Philadelphia, PA",6,48,0.13,42,126,0.33,48,174,0.28,9,4.42,4731677.00,9,525741.89,280000.00,88%
+Amanda Baker 305,amanda_baker_305,sacramento_ca,"Sacramento, CA",19,182,0.10,41,353,0.12,60,535,0.11,7,4.86,11203172.00,22,509235.09,583913.00,-13%
+Isabella Hill 209,isabella_hill_209,grand_rapids_mi,"Grand Rapids, MI",1,8,0.13,35,79,0.44,36,87,0.41,7,4.09,8505001.00,16,531562.56,355500.00,50%
+Ashley Williams 762,ashley_williams_762,tampa_fl,"Tampa, FL",28,274,0.10,5,27,0.19,33,301,0.11,6,2.69,2633631.00,6,438938.50,369291.00,19%
+Nia Thompson 808,nia_thompson_808,atlanta_ga,"Atlanta, GA",3,12,0.25,33,300,0.11,36,312,0.12,7,2.97,4188846.00,8,523605.75,395000.00,33%
+Jennifer Jackson 416,jennifer_jackson_416,detroit_mi,"Detroit, MI",16,121,0.13,24,221,0.11,40,342,0.12,7,3.40,9231084.00,18,512838.00,205878.00,149%
+Mohammed Khan 756,mohammed_khan_756,houston_tx,"Houston, TX",9,67,0.13,23,126,0.18,32,193,0.17,6,2.00,8797737.00,17,517513.94,329900.00,57%
+Mohammed Hernandez 381,mohammed_hernandez_381,san_diego_ca,"San Diego, CA",26,132,0.20,18,103,0.17,44,235,0.19,6,4.07,8094724.00,16,505920.25,899450.00,-44%
+Mary Abdullah 270,mary_abdullah_270,virginia_beach_va,"Virginia Beach, VA",14,134,0.10,26,235,0.11,40,369,0.11,7,4.31,4814879.00,10,481487.90,368800.00,31%
+Linda Tran 301,linda_tran_301,dallas_tx,"Dallas, TX",23,164,0.14,21,135,0.16,44,299,0.15,6,3.22,7580120.00,16,473757.50,408386.00,16%
+Lakshmi Mitchell 377,lakshmi_mitchell_377,miami_fl,"Miami, FL",27,120,0.23,25,130,0.19,52,250,0.21,7,4.67,5585972.00,11,507815.64,560000.00,-9%
+Arjun Williams 858,arjun_williams_858,boston_ma,"Boston, MA",2,16,0.13,50,347,0.14,52,363,0.14,9,3.09,5038312.00,11,458028.36,733673.00,-38%
+Ana Smith 902,ana_smith_902,virginia_beach_va,"Virginia Beach, VA",24,166,0.14,15,129,0.12,39,295,0.13,7,4.68,6640923.00,13,510840.23,368800.00,39%
+Camila Robinson 734,camila_robinson_734,los_angeles_ca,"Los Angeles, CA",28,93,0.30,44,192,0.23,72,285,0.25,14,3.59,3674777.00,8,459347.13,915000.00,-50%
+Latoya Robinson 601,latoya_robinson_601,las_vegas_nv,"Las Vegas, NV",11,43,0.26,47,413,0.11,58,456,0.13,6,4.50,7622052.00,17,448356.00,440000.00,2%
+Jose Hernandez 319,jose_hernandez_319,austin_tx,"Austin, TX",13,105,0.12,50,313,0.16,63,418,0.15,7,2.30,11843909.00,22,538359.50,430657.00,25%
+Michael Hernandez 312,michael_hernandez_312,virginia_beach_va,"Virginia Beach, VA",15,131,0.11,30,179,0.17,45,310,0.15,9,4.94,3051266.00,8,381408.25,368800.00,3%
+Daniel Mohamed 821,daniel_mohamed_821,austin_tx,"Austin, TX",18,180,0.10,47,387,0.12,65,567,0.11,12,3.56,8974022.00,19,472316.95,430657.00,10%
+John Tran 129,john_tran_129,seattle_wa,"Seattle, WA",25,101,0.25,42,315,0.13,67,416,0.16,8,2.83,6235705.00,13,479669.62,832871.00,-42%
+Jennifer Baker 996,jennifer_baker_996,pittsburgh_pa,"Pittsburgh, PA",28,194,0.14,15,91,0.16,43,285,0.15,8,3.95,4474567.00,9,497174.11,250000.00,99%
+Mohammed Rodriguez 662,mohammed_rodriguez_662,providence_ri,"Providence, RI",28,201,0.14,36,155,0.23,64,356,0.18,11,2.93,4534136.00,9,503792.89,524062.00,-4%
+Amanda Khan 445,amanda_khan_445,louisville_ky,"Louisville, KY",13,81,0.16,48,164,0.29,61,245,0.25,6,4.69,6341116.00,13,487778.15,280000.00,74%
+Arjun Patel 669,arjun_patel_669,memphis_tn,"Memphis, TN",18,140,0.13,46,204,0.23,64,344,0.19,6,4.88,11411910.00,23,496170.00,300000.00,65%
+Latoya Lewis 372,latoya_lewis_372,seattle_wa,"Seattle, WA",25,152,0.16,27,124,0.22,52,276,0.19,7,4.84,8770571.00,17,515915.94,832871.00,-38%
+Jamal Young 798,jamal_young_798,baltimore_md,"Baltimore, MD",25,194,0.13,22,196,0.11,47,390,0.12,9,4.41,7246718.00,15,483114.53,393506.00,23%
+Keisha Baker 331,keisha_baker_331,st_louis_mo,"St. Louis, MO",9,52,0.17,49,259,0.19,58,311,0.19,9,3.95,3674033.00,8,459254.13,285000.00,61%
+Omar Martinez 412,omar_martinez_412,new_york_ny,"New York, NY",27,195,0.14,23,47,0.49,50,242,0.21,7,3.74,8494574.00,16,530910.88,785000.00,-32%
+Haruka Rodriguez 572,haruka_rodriguez_572,oklahoma_city_ok,"Oklahoma City, OK",22,83,0.27,39,298,0.13,61,381,0.16,11,2.56,7707800.00,16,481737.50,268000.00,80%
+Jamal Mohamed 10,jamal_mohamed_10,milwaukee_wi,"Milwaukee, WI",26,206,0.13,26,173,0.15,52,379,0.14,7,4.35,7231196.00,13,556245.85,360000.00,55%
+Margaret Baker 681,margaret_baker_681,richmond_va,"Richmond, VA",10,62,0.16,43,109,0.39,53,171,0.31,7,4.76,7218551.00,15,481236.73,395000.00,22%
+Kenji Gonzalez 36,kenji_gonzalez_36,salt_lake_city_ut,"Salt Lake City, UT",27,253,0.11,18,120,0.15,45,373,0.12,9,4.87,7100397.00,14,507171.21,552000.00,-8%
+Sarah Clark 855,sarah_clark_855,minneapolis_mn,"Minneapolis, MN",15,68,0.22,45,291,0.15,60,359,0.17,7,2.42,5912067.00,12,492672.25,393674.00,25%
+Malik Torres 608,malik_torres_608,san_diego_ca,"San Diego, CA",18,142,0.13,48,199,0.24,66,341,0.19,12,3.64,3416581.00,8,427072.63,899450.00,-53%
+Maria White 684,maria_white_684,milwaukee_wi,"Milwaukee, WI",23,128,0.18,38,328,0.12,61,456,0.13,12,2.37,5741056.00,12,478421.33,360000.00,33%
+Daniel Evans 449,daniel_evans_449,los_angeles_ca,"Los Angeles, CA",7,30,0.23,46,236,0.19,53,266,0.20,10,3.47,4911181.00,10,491118.10,915000.00,-46%
+Emily Tran 396,emily_tran_396,nashville_tn,"Nashville, TN",16,92,0.17,43,401,0.11,59,493,0.12,10,2.91,5068052.00,10,506805.20,455000.00,11%
+Isabella Scott 419,isabella_scott_419,pittsburgh_pa,"Pittsburgh, PA",4,17,0.24,46,271,0.17,50,288,0.17,6,3.88,3875287.00,9,430587.44,250000.00,72%
+Tanya Scott 254,tanya_scott_254,las_vegas_nv,"Las Vegas, NV",24,192,0.13,31,295,0.11,55,487,0.11,10,2.00,1623402.00,4,405850.50,440000.00,-8%
+Tyrone Torres 73,tyrone_torres_73,louisville_ky,"Louisville, KY",23,200,0.12,26,130,0.20,49,330,0.15,8,4.11,7980984.00,18,443388.00,280000.00,58%
+Hassan White 249,hassan_white_249,las_vegas_nv,"Las Vegas, NV",30,185,0.16,50,304,0.16,80,489,0.16,14,3.29,8328642.00,16,520540.13,440000.00,18%
+Sofia Scott 778,sofia_scott_778,san_antonio_tx,"San Antonio, TX",29,108,0.27,10,37,0.27,39,145,0.27,7,3.19,4434486.00,9,492720.67,307287.00,60%
+Zainab Ramirez 406,zainab_ramirez_406,grand_rapids_mi,"Grand Rapids, MI",8,52,0.15,36,117,0.31,44,169,0.26,8,4.57,4885646.00,10,488564.60,355500.00,37%
+Carlos Jones 151,carlos_jones_151,sacramento_ca,"Sacramento, CA",22,168,0.13,38,98,0.39,60,266,0.23,12,2.44,12213506.00,24,508896.08,583913.00,-13%
+Dorothy Mohamed 906,dorothy_mohamed_906,cleveland_oh,"Cleveland, OH",21,143,0.15,29,76,0.38,50,219,0.23,10,2.08,3386532.00,8,423316.50,243539.00,74%
+Matthew Scott 968,matthew_scott_968,denver_co,"Denver, CO",30,108,0.28,40,292,0.14,70,400,0.18,10,2.25,6188049.00,12,515670.75,591083.00,-13%
+Robert Thompson 733,robert_thompson_733,philadelphia_pa,"Philadelphia, PA",17,97,0.18,19,122,0.16,36,219,0.16,6,3.05,6664791.00,14,476056.50,280000.00,70%
+Mina Williams 449,mina_williams_449,tampa_fl,"Tampa, FL",22,182,0.12,46,93,0.49,68,275,0.25,6,2.25,4575496.00,9,508388.44,369291.00,38%
+Mei White 978,mei_white_978,baltimore_md,"Baltimore, MD",6,32,0.19,48,381,0.13,54,413,0.13,6,3.74,6874963.00,14,491068.79,393506.00,25%
+Sarah King 69,sarah_king_69,boston_ma,"Boston, MA",30,256,0.12,41,301,0.14,71,557,0.13,9,3.25,5433820.00,12,452818.33,733673.00,-38%
+Christopher White 33,christopher_white_33,kansas_city_mo,"Kansas City, MO",25,144,0.17,30,98,0.31,55,242,0.23,10,3.81,3011063.00,6,501843.83,349900.00,43%
+Ling Johnson 386,ling_johnson_386,grand_rapids_mi,"Grand Rapids, MI",20,138,0.14,15,65,0.23,35,203,0.17,6,3.84,6376152.00,13,490473.23,355500.00,38%
+Amanda Ali 605,amanda_ali_605,new_york_ny,"New York, NY",17,125,0.14,23,73,0.32,40,198,0.20,6,2.93,3736230.00,8,467028.75,785000.00,-41%
+Priya Tran 39,priya_tran_39,memphis_tn,"Memphis, TN",29,199,0.15,47,216,0.22,76,415,0.18,8,2.61,7605049.00,16,475315.56,300000.00,58%
+Ashley Williams 268,ashley_williams_268,columbus_oh,"Columbus, OH",20,198,0.10,40,136,0.29,60,334,0.18,6,2.53,11893300.00,24,495554.17,343374.00,44%
+Robert Adams 868,robert_adams_868,fresno_ca,"Fresno, CA",29,201,0.14,49,316,0.16,78,517,0.15,15,2.65,6001428.00,12,500119.00,437000.00,14%
+Yuki Scott 486,yuki_scott_486,san_diego_ca,"San Diego, CA",10,92,0.11,28,215,0.13,38,307,0.12,6,3.56,5301997.00,10,530199.70,899450.00,-41%
+Sarah Brown 275,sarah_brown_275,indianapolis_in,"Indianapolis, IN",6,23,0.26,40,297,0.13,46,320,0.14,6,4.85,2568247.00,5,513649.40,311372.00,65%
+Maria Robinson 720,maria_robinson_720,dallas_tx,"Dallas, TX",22,81,0.27,19,182,0.10,41,263,0.16,7,3.97,6240480.00,13,480036.92,408386.00,18%
+Michael Washington 13,michael_washington_13,san_francisco_ca,"San Francisco, CA",22,127,0.17,46,173,0.27,68,300,0.23,9,2.99,5540644.00,11,503694.91,1482500.00,-66%
+Mina Patel 274,mina_patel_274,fresno_ca,"Fresno, CA",26,208,0.13,29,98,0.30,55,306,0.18,11,4.30,5297210.00,11,481564.55,437000.00,10%
+Joseph Adams 314,joseph_adams_314,miami_fl,"Miami, FL",30,280,0.11,44,125,0.35,74,405,0.18,14,3.37,8044770.00,16,502798.13,560000.00,-10%
+Carlos Washington 236,carlos_washington_236,grand_rapids_mi,"Grand Rapids, MI",29,240,0.12,4,24,0.17,33,264,0.13,6,4.07,8514920.00,17,500877.65,355500.00,41%
+Susan Williams 614,susan_williams_614,orlando_fl,"Orlando, FL",12,99,0.12,37,183,0.20,49,282,0.17,7,2.07,6595772.00,12,549647.67,410349.00,34%
+Isabella Campbell 138,isabella_campbell_138,nashville_tn,"Nashville, TN",2,15,0.13,45,356,0.13,47,371,0.13,8,2.02,6686326.00,12,557193.83,455000.00,22%
+Malik Baker 977,malik_baker_977,minneapolis_mn,"Minneapolis, MN",19,182,0.10,21,112,0.19,40,294,0.14,7,2.82,4330829.00,9,481203.22,393674.00,22%
+Jose Kim 59,jose_kim_59,san_jose_ca,"San Jose, CA",10,89,0.11,30,146,0.21,40,235,0.17,7,4.07,7909144.00,17,465243.76,1632174.00,-71%
+Elizabeth Torres 378,elizabeth_torres_378,richmond_va,"Richmond, VA",17,55,0.31,28,265,0.11,45,320,0.14,8,2.40,4976294.00,10,497629.40,395000.00,26%
+Hana Garcia 716,hana_garcia_716,providence_ri,"Providence, RI",20,126,0.16,47,181,0.26,67,307,0.22,7,2.23,5646208.00,13,434323.69,524062.00,-17%
+John Perez 208,john_perez_208,miami_fl,"Miami, FL",19,155,0.12,26,116,0.22,45,271,0.17,9,3.96,8433225.00,15,562215.00,560000.00,0%
+Emily Adams 50,emily_adams_50,dallas_tx,"Dallas, TX",22,75,0.29,33,87,0.38,55,162,0.34,11,3.88,7459130.00,17,438772.35,408386.00,7%
+Aya Parker 144,aya_parker_144,charlotte_nc,"Charlotte, NC",17,154,0.11,41,135,0.30,58,289,0.20,11,4.58,10874921.00,24,453121.71,412466.00,10%
+Sofia Mohamed 378,sofia_mohamed_378,san_diego_ca,"San Diego, CA",30,224,0.13,45,97,0.46,75,321,0.23,9,3.25,4018696.00,9,446521.78,899450.00,-50%
+Daniel Martinez 543,daniel_martinez_543,houston_tx,"Houston, TX",5,31,0.16,43,297,0.14,48,328,0.15,7,3.18,9146494.00,18,508138.56,329900.00,54%
+Richard Jones 757,richard_jones_757,raleigh_nc,"Raleigh, NC",23,230,0.10,46,298,0.15,69,528,0.13,9,4.32,12337330.00,24,514055.42,437500.00,17%
+Luis Adams 676,luis_adams_676,san_francisco_ca,"San Francisco, CA",4,40,0.10,39,265,0.15,43,305,0.14,7,3.01,7161452.00,14,511532.29,1482500.00,-65%
+Wei Martinez 31,wei_martinez_31,orlando_fl,"Orlando, FL",17,138,0.12,38,193,0.20,55,331,0.17,7,3.32,7248832.00,15,483255.47,410349.00,18%
+Mina Mohamed 5,mina_mohamed_5,denver_co,"Denver, CO",30,262,0.11,47,294,0.16,77,556,0.14,12,2.66,5557483.00,11,505225.73,591083.00,-15%
+Asha Young 342,asha_young_342,providence_ri,"Providence, RI",3,23,0.13,42,192,0.22,45,215,0.21,7,2.76,7820863.00,17,460050.76,524062.00,-12%
+Layla Green 951,layla_green_951,orlando_fl,"Orlando, FL",24,165,0.15,21,55,0.38,45,220,0.20,9,4.43,8766898.00,17,515699.88,410349.00,26%
+Arjun Williams 748,arjun_williams_748,houston_tx,"Houston, TX",20,100,0.20,46,249,0.18,66,349,0.19,11,4.44,8940581.00,18,496698.94,329900.00,51%
+Luis Khan 64,luis_khan_64,cincinnati_oh,"Cincinnati, OH",22,131,0.17,18,122,0.15,40,253,0.16,8,2.30,8588639.00,18,477146.61,304890.00,56%
+Minh Abdullah 51,minh_abdullah_51,richmond_va,"Richmond, VA",29,188,0.15,26,216,0.12,55,404,0.14,11,3.79,8164923.00,16,510307.69,395000.00,29%
+Linda Martinez 176,linda_martinez_176,jacksonville_fl,"Jacksonville, FL",25,105,0.24,16,144,0.11,41,249,0.16,6,2.58,5008046.00,11,455276.91,365000.00,25%
+Lakshmi Washington 549,lakshmi_washington_549,tampa_fl,"Tampa, FL",29,125,0.23,7,21,0.33,36,146,0.25,6,4.41,6686726.00,14,477623.29,369291.00,29%
+Lakshmi Lewis 467,lakshmi_lewis_467,virginia_beach_va,"Virginia Beach, VA",18,105,0.17,47,309,0.15,65,414,0.16,7,2.14,6225455.00,12,518787.92,368800.00,41%
+Joseph Davis 263,joseph_davis_263,san_antonio_tx,"San Antonio, TX",27,151,0.18,36,256,0.14,63,407,0.15,12,3.77,3146652.00,7,449521.71,307287.00,46%
+Raj Scott 15,raj_scott_15,denver_co,"Denver, CO",11,106,0.10,48,141,0.34,59,247,0.24,7,3.91,6904524.00,15,460301.60,591083.00,-22%
+Lucia Martinez 1000,lucia_martinez_1000,raleigh_nc,"Raleigh, NC",27,89,0.30,47,390,0.12,74,479,0.15,12,3.90,12845060.00,28,458752.14,437500.00,5%
+Amanda Mitchell 568,amanda_mitchell_568,pittsburgh_pa,"Pittsburgh, PA",24,82,0.29,29,86,0.34,53,168,0.32,6,3.99,6588606.00,15,439240.40,250000.00,76%
+Robert Kim 507,robert_kim_507,fresno_ca,"Fresno, CA",20,106,0.19,19,93,0.20,39,199,0.20,6,2.80,4135645.00,10,413564.50,437000.00,-5%
+Charles Hall 449,charles_hall_449,minneapolis_mn,"Minneapolis, MN",23,101,0.23,21,52,0.40,44,153,0.29,7,4.19,4792173.00,11,435652.09,393674.00,11%
+Ahmad Walker 939,ahmad_walker_939,sacramento_ca,"Sacramento, CA",10,89,0.11,48,118,0.41,58,207,0.28,6,4.58,8169659.00,18,453869.94,583913.00,-22%
+Ahmad Jones 606,ahmad_jones_606,providence_ri,"Providence, RI",16,118,0.14,48,228,0.21,64,346,0.18,7,2.45,6249725.00,12,520810.42,524062.00,-1%
+Robert Gonzalez 766,robert_gonzalez_766,fresno_ca,"Fresno, CA",10,97,0.10,49,443,0.11,59,540,0.11,7,2.95,2818896.00,6,469816.00,437000.00,8%
+Minh Allen 562,minh_allen_562,new_york_ny,"New York, NY",4,27,0.15,39,204,0.19,43,231,0.19,7,4.58,7065711.00,14,504693.64,785000.00,-36%
+Susan Brown 518,susan_brown_518,san_diego_ca,"San Diego, CA",26,171,0.15,17,115,0.15,43,286,0.15,6,2.21,7471503.00,15,498100.20,899450.00,-45%
+Jin Hernandez 779,jin_hernandez_779,oklahoma_city_ok,"Oklahoma City, OK",19,117,0.16,47,328,0.14,66,445,0.15,12,4.10,5612682.00,12,467723.50,268000.00,75%
+Lucia Jackson 291,lucia_jackson_291,richmond_va,"Richmond, VA",22,175,0.13,24,221,0.11,46,396,0.12,7,4.97,4700847.00,10,470084.70,395000.00,19%
+Tyrone Brown 585,tyrone_brown_585,st_louis_mo,"St. Louis, MO",11,98,0.11,47,374,0.13,58,472,0.12,9,4.73,5601170.00,12,466764.17,285000.00,64%
+Christopher Smith 733,christopher_smith_733,dallas_tx,"Dallas, TX",2,11,0.18,50,251,0.20,52,262,0.20,7,3.88,4734273.00,11,430388.45,408386.00,5%
+James Ramirez 768,james_ramirez_768,chicago_il,"Chicago, IL",24,230,0.10,33,174,0.19,57,404,0.14,9,2.26,6494862.00,13,499604.77,360000.00,39%
+Camila Hassan 961,camila_hassan_961,indianapolis_in,"Indianapolis, IN",19,145,0.13,27,132,0.20,46,277,0.17,7,4.56,5450529.00,11,495502.64,311372.00,59%
+Darnell Hill 510,darnell_hill_510,kansas_city_mo,"Kansas City, MO",27,257,0.11,45,366,0.12,72,623,0.12,13,4.37,10687386.00,20,534369.30,349900.00,53%
+Isabella Johnson 130,isabella_johnson_130,indianapolis_in,"Indianapolis, IN",29,175,0.17,45,196,0.23,74,371,0.20,12,4.65,3416591.00,7,488084.43,311372.00,57%
+Asha Ramirez 876,asha_ramirez_876,seattle_wa,"Seattle, WA",29,286,0.10,36,141,0.26,65,427,0.15,8,2.58,8087485.00,15,539165.67,832871.00,-35%
+Aya Gonzalez 721,aya_gonzalez_721,buffalo_ny,"Buffalo, NY",4,34,0.12,47,424,0.11,51,458,0.11,6,3.24,4414083.00,10,441408.30,290000.00,52%
+Tyrone Thompson 561,tyrone_thompson_561,detroit_mi,"Detroit, MI",28,193,0.15,2,5,0.40,30,198,0.15,6,3.59,9666747.00,22,439397.59,205878.00,113%
+Maria Garcia 191,maria_garcia_191,atlanta_ga,"Atlanta, GA",16,124,0.13,15,57,0.26,31,181,0.17,6,2.86,4790170.00,9,532241.11,395000.00,35%
+Hiroshi Baker 32,hiroshi_baker_32,cleveland_oh,"Cleveland, OH",21,195,0.11,48,185,0.26,69,380,0.18,8,3.12,8205830.00,17,482695.88,243539.00,98%
+Charles Gonzalez 840,charles_gonzalez_840,minneapolis_mn,"Minneapolis, MN",20,181,0.11,39,368,0.11,59,549,0.11,8,2.17,6124241.00,12,510353.42,393674.00,30%
+Tyrone Robinson 873,tyrone_robinson_873,austin_tx,"Austin, TX",20,129,0.16,34,328,0.10,54,457,0.12,10,2.31,6812451.00,13,524034.69,430657.00,22%
+Charles Evans 796,charles_evans_796,san_francisco_ca,"San Francisco, CA",20,138,0.14,36,220,0.16,56,358,0.16,9,2.28,5401056.00,10,540105.60,1482500.00,-64%
+Hao Williams 157,hao_williams_157,richmond_va,"Richmond, VA",20,135,0.15,46,162,0.28,66,297,0.22,12,3.99,7489420.00,15,499294.67,395000.00,26%
+Christopher Hernandez 92,christopher_hernandez_92,washington_dc,"Washington, DC",13,47,0.28,19,182,0.10,32,229,0.14,6,2.34,5850762.00,13,450058.62,580748.00,-23%
+Carlos Lewis 873,carlos_lewis_873,pittsburgh_pa,"Pittsburgh, PA",18,146,0.12,47,309,0.15,65,455,0.14,11,3.27,7612271.00,16,475766.94,250000.00,90%
+Barbara Garcia 316,barbara_garcia_316,charlotte_nc,"Charlotte, NC",17,110,0.15,33,301,0.11,50,411,0.12,6,2.15,9478526.00,18,526584.78,412466.00,28%
+Mina Nelson 492,mina_nelson_492,san_diego_ca,"San Diego, CA",20,185,0.11,50,354,0.14,70,539,0.13,13,3.15,6857501.00,16,428593.81,899450.00,-52%
+Linda Carter 866,linda_carter_866,milwaukee_wi,"Milwaukee, WI",17,76,0.22,44,243,0.18,61,319,0.19,8,2.73,10117640.00,19,532507.37,360000.00,48%
+Barbara Lopez 889,barbara_lopez_889,columbus_oh,"Columbus, OH",12,107,0.11,32,286,0.11,44,393,0.11,6,4.50,9723060.00,21,463002.86,343374.00,35%
+Takeshi Tran 259,takeshi_tran_259,orlando_fl,"Orlando, FL",18,155,0.12,30,287,0.10,48,442,0.11,8,4.08,5604170.00,12,467014.17,410349.00,14%
+Margaret Green 54,margaret_green_54,memphis_tn,"Memphis, TN",15,54,0.28,50,373,0.13,65,427,0.15,9,2.50,8004467.00,17,470851.00,300000.00,57%
+Jennifer Ali 41,jennifer_ali_41,buffalo_ny,"Buffalo, NY",20,97,0.21,25,191,0.13,45,288,0.16,7,4.44,6681871.00,15,445458.07,290000.00,54%
+Mei Parker 700,mei_parker_700,san_francisco_ca,"San Francisco, CA",13,127,0.10,23,60,0.38,36,187,0.19,7,4.14,5653759.00,11,513978.09,1482500.00,-65%
+Wei Jones 937,wei_jones_937,louisville_ky,"Louisville, KY",14,117,0.12,50,368,0.14,64,485,0.13,8,4.97,7295596.00,15,486373.07,280000.00,74%
+Mina Carter 615,mina_carter_615,tampa_fl,"Tampa, FL",26,236,0.11,43,427,0.10,69,663,0.10,8,3.49,7340722.00,15,489381.47,369291.00,33%
+Zainab Gonzalez 408,zainab_gonzalez_408,seattle_wa,"Seattle, WA",6,50,0.12,33,329,0.10,39,379,0.10,6,3.01,5876638.00,13,452049.08,832871.00,-46%
+Luis Perez 521,luis_perez_521,jacksonville_fl,"Jacksonville, FL",27,121,0.22,46,113,0.41,73,234,0.31,11,3.40,7592472.00,14,542319.43,365000.00,49%
+Jennifer Martinez 452,jennifer_martinez_452,jacksonville_fl,"Jacksonville, FL",12,43,0.28,32,93,0.34,44,136,0.32,7,2.55,7848935.00,17,461702.06,365000.00,26%
+Ahmad Campbell 232,ahmad_campbell_232,seattle_wa,"Seattle, WA",21,140,0.15,30,178,0.17,51,318,0.16,7,3.84,12550246.00,24,522926.92,832871.00,-37%
+Maria Clark 358,maria_clark_358,milwaukee_wi,"Milwaukee, WI",27,164,0.16,38,377,0.10,65,541,0.12,8,2.64,6507544.00,14,464824.57,360000.00,29%
+Jennifer Torres 363,jennifer_torres_363,grand_rapids_mi,"Grand Rapids, MI",9,78,0.12,24,196,0.12,33,274,0.12,6,2.07,7525253.00,15,501683.53,355500.00,41%
+Ling Robinson 117,ling_robinson_117,louisville_ky,"Louisville, KY",13,127,0.10,24,90,0.27,37,217,0.17,7,2.70,6148208.00,14,439157.71,280000.00,57%
+Sarah Ramirez 313,sarah_ramirez_313,buffalo_ny,"Buffalo, NY",20,65,0.31,44,213,0.21,64,278,0.23,12,2.86,7036659.00,15,469110.60,290000.00,62%
+James Jackson 628,james_jackson_628,riverside_ca,"Riverside, CA",17,138,0.12,34,237,0.14,51,375,0.14,9,4.45,9985383.00,23,434147.09,585960.00,-26%
+Sarah Carter 702,sarah_carter_702,richmond_va,"Richmond, VA",11,57,0.19,32,243,0.13,43,300,0.14,7,3.00,7231552.00,15,482103.47,395000.00,22%
+David Nguyen 46,david_nguyen_46,birmingham_al,"Birmingham, AL",9,36,0.25,39,147,0.27,48,183,0.26,8,3.33,10316582.00,22,468935.55,305370.00,54%
+Asha Khan 413,asha_khan_413,grand_rapids_mi,"Grand Rapids, MI",24,176,0.14,44,145,0.30,68,321,0.21,6,4.91,3438004.00,6,573000.67,355500.00,61%
+Miguel King 193,miguel_king_193,los_angeles_ca,"Los Angeles, CA",23,188,0.12,48,248,0.19,71,436,0.16,11,2.98,5758733.00,12,479894.42,915000.00,-48%
+Priya Hassan 439,priya_hassan_439,grand_rapids_mi,"Grand Rapids, MI",29,127,0.23,37,120,0.31,66,247,0.27,12,2.20,7681432.00,15,512095.47,355500.00,44%
+Amanda Gonzalez 142,amanda_gonzalez_142,seattle_wa,"Seattle, WA",7,60,0.12,47,388,0.12,54,448,0.12,7,2.78,5578234.00,12,464852.83,832871.00,-44%
+Imani Thompson 24,imani_thompson_24,buffalo_ny,"Buffalo, NY",25,230,0.11,46,409,0.11,71,639,0.11,10,2.18,8810653.00,18,489480.72,290000.00,69%
+Keisha Torres 908,keisha_torres_908,orlando_fl,"Orlando, FL",23,141,0.16,23,123,0.19,46,264,0.17,8,4.51,6280854.00,14,448632.43,410349.00,9%
+Camila Hill 390,camila_hill_390,los_angeles_ca,"Los Angeles, CA",24,144,0.17,37,261,0.14,61,405,0.15,11,3.36,5827081.00,12,485590.08,915000.00,-47%
+Omar Jones 349,omar_jones_349,philadelphia_pa,"Philadelphia, PA",13,86,0.15,35,308,0.11,48,394,0.12,8,4.00,3991667.00,8,498958.38,280000.00,78%
+Anthony Lewis 479,anthony_lewis_479,salt_lake_city_ut,"Salt Lake City, UT",10,40,0.25,45,428,0.11,55,468,0.12,11,4.55,7147593.00,16,446724.56,552000.00,-19%
+Tyrone Nguyen 559,tyrone_nguyen_559,buffalo_ny,"Buffalo, NY",17,60,0.28,50,455,0.11,67,515,0.13,9,2.94,5934411.00,12,494534.25,290000.00,71%
+Asha Scott 728,asha_scott_728,detroit_mi,"Detroit, MI",29,185,0.16,13,86,0.15,42,271,0.15,7,2.99,5202120.00,10,520212.00,205878.00,153%
+Jason Nguyen 698,jason_nguyen_698,pittsburgh_pa,"Pittsburgh, PA",28,182,0.15,20,56,0.36,48,238,0.20,8,3.53,6784138.00,15,452275.87,250000.00,81%
+Zainab Ali 566,zainab_ali_566,philadelphia_pa,"Philadelphia, PA",19,158,0.12,30,247,0.12,49,405,0.12,8,3.57,4040259.00,9,448917.67,280000.00,60%
+Mary Baker 972,mary_baker_972,boston_ma,"Boston, MA",28,245,0.11,48,120,0.40,76,365,0.21,14,4.99,3688848.00,7,526978.29,733673.00,-28%
+Kenji Parker 198,kenji_parker_198,buffalo_ny,"Buffalo, NY",30,190,0.16,47,236,0.20,77,426,0.18,9,2.61,8000769.00,16,500048.06,290000.00,72%
+Yuki Adams 285,yuki_adams_285,portland_or,"Portland, OR",26,249,0.10,10,28,0.36,36,277,0.13,6,2.19,10550709.00,22,479577.68,550874.00,-13%
+Hassan Garcia 655,hassan_garcia_655,detroit_mi,"Detroit, MI",26,208,0.13,45,189,0.24,71,397,0.18,6,2.08,4114552.00,9,457172.44,205878.00,122%
+Richard Harris 829,richard_harris_829,phoenix_az,"Phoenix, AZ",28,205,0.14,25,62,0.40,53,267,0.20,7,4.75,6410798.00,13,493138.31,465000.00,6%
+Hiroshi Baker 812,hiroshi_baker_812,cincinnati_oh,"Cincinnati, OH",21,120,0.18,49,384,0.13,70,504,0.14,8,3.05,7029821.00,14,502130.07,304890.00,65%
+Ashley Hernandez 333,ashley_hernandez_333,san_antonio_tx,"San Antonio, TX",8,67,0.12,28,214,0.13,36,281,0.13,6,2.73,7226944.00,14,516210.29,307287.00,68%
+Matthew Rodriguez 166,matthew_rodriguez_166,baltimore_md,"Baltimore, MD",28,142,0.20,22,76,0.29,50,218,0.23,9,2.68,6473767.00,14,462411.93,393506.00,18%
+Hassan Campbell 258,hassan_campbell_258,kansas_city_mo,"Kansas City, MO",16,94,0.17,49,217,0.23,65,311,0.21,8,2.19,8495854.00,17,499756.12,349900.00,43%
+John Walker 849,john_walker_849,richmond_va,"Richmond, VA",1,7,0.14,41,290,0.14,42,297,0.14,7,4.88,5429597.00,12,452466.42,395000.00,15%
+Hassan Lewis 806,hassan_lewis_806,miami_fl,"Miami, FL",24,124,0.19,32,102,0.31,56,226,0.25,9,2.50,4156619.00,8,519577.38,560000.00,-7%
+Yuki Lewis 798,yuki_lewis_798,boston_ma,"Boston, MA",14,116,0.12,44,313,0.14,58,429,0.14,10,2.75,6411853.00,13,493219.46,733673.00,-33%
+Patricia Carter 732,patricia_carter_732,riverside_ca,"Riverside, CA",16,151,0.11,35,256,0.14,51,407,0.13,8,4.06,4905329.00,11,445939.00,585960.00,-24%
+Jessica Hall 530,jessica_hall_530,phoenix_az,"Phoenix, AZ",28,265,0.11,49,180,0.27,77,445,0.17,6,2.57,13059531.00,27,483686.33,465000.00,4%
+Hassan Washington 575,hassan_washington_575,birmingham_al,"Birmingham, AL",19,133,0.14,31,93,0.33,50,226,0.22,8,3.40,10490995.00,21,499571.19,305370.00,64%
+Matthew Campbell 115,matthew_campbell_115,riverside_ca,"Riverside, CA",3,25,0.12,42,374,0.11,45,399,0.11,8,2.91,8041145.00,16,502571.56,585960.00,-14%
+Sarah Ramirez 872,sarah_ramirez_872,louisville_ky,"Louisville, KY",9,77,0.12,22,72,0.31,31,149,0.21,6,3.95,9186275.00,18,510348.61,280000.00,82%
+Amanda Young 904,amanda_young_904,riverside_ca,"Riverside, CA",21,91,0.23,50,139,0.36,71,230,0.31,9,3.45,3223548.00,6,537258.00,585960.00,-8%
+Tanya Hill 978,tanya_hill_978,baltimore_md,"Baltimore, MD",13,94,0.14,43,157,0.27,56,251,0.22,7,3.34,4456981.00,10,445698.10,393506.00,13%
+Joseph Tran 727,joseph_tran_727,pittsburgh_pa,"Pittsburgh, PA",4,33,0.12,48,295,0.16,52,328,0.16,8,2.85,6906910.00,14,493350.71,250000.00,97%
+Arjun Garcia 648,arjun_garcia_648,virginia_beach_va,"Virginia Beach, VA",11,68,0.16,29,229,0.13,40,297,0.13,7,3.36,7892338.00,14,563738.43,368800.00,53%
+Patricia Hall 86,patricia_hall_86,cincinnati_oh,"Cincinnati, OH",20,64,0.31,33,221,0.15,53,285,0.19,6,4.26,5951018.00,13,457770.62,304890.00,50%
+Jin King 345,jin_king_345,new_york_ny,"New York, NY",17,105,0.16,15,73,0.21,32,178,0.18,6,2.25,6647886.00,13,511375.85,785000.00,-35%
+Jennifer Garcia 535,jennifer_garcia_535,los_angeles_ca,"Los Angeles, CA",18,150,0.12,37,333,0.11,55,483,0.11,8,2.49,8916069.00,17,524474.65,915000.00,-43%
+James Ramirez 563,james_ramirez_563,charlotte_nc,"Charlotte, NC",27,197,0.14,48,159,0.30,75,356,0.21,7,2.46,10988489.00,23,477760.39,412466.00,16%
+Kwame Jackson 770,kwame_jackson_770,detroit_mi,"Detroit, MI",14,105,0.13,40,334,0.12,54,439,0.12,9,4.01,4310207.00,10,431020.70,205878.00,109%
+Emily Kim 494,emily_kim_494,san_jose_ca,"San Jose, CA",20,185,0.11,12,65,0.18,32,250,0.13,6,3.86,6291985.00,12,524332.08,1632174.00,-68%
+Lakshmi Williams 238,lakshmi_williams_238,jacksonville_fl,"Jacksonville, FL",23,211,0.11,47,443,0.11,70,654,0.11,10,3.47,5195497.00,11,472317.91,365000.00,29%
+Mina Walker 353,mina_walker_353,las_vegas_nv,"Las Vegas, NV",27,183,0.15,48,370,0.13,75,553,0.14,6,4.29,8806651.00,16,550415.69,440000.00,25%
+Carlos Young 28,carlos_young_28,riverside_ca,"Riverside, CA",30,99,0.30,44,101,0.44,74,200,0.37,7,4.27,5094944.00,10,509494.40,585960.00,-13%
+Minh Harris 725,minh_harris_725,tampa_fl,"Tampa, FL",17,89,0.19,34,77,0.44,51,166,0.31,8,3.09,5012743.00,11,455703.91,369291.00,23%
+Mei Gonzalez 602,mei_gonzalez_602,providence_ri,"Providence, RI",27,222,0.12,48,161,0.30,75,383,0.20,7,2.74,9010243.00,17,530014.29,524062.00,1%
+Aisha Washington 804,aisha_washington_804,san_antonio_tx,"San Antonio, TX",15,76,0.20,38,341,0.11,53,417,0.13,7,3.46,5934556.00,12,494546.33,307287.00,61%
+Miguel Williams 122,miguel_williams_122,orlando_fl,"Orlando, FL",27,259,0.10,25,113,0.22,52,372,0.14,10,3.33,10184267.00,20,509213.35,410349.00,24%
+Omar Adams 646,omar_adams_646,denver_co,"Denver, CO",7,55,0.13,28,147,0.19,35,202,0.17,6,4.71,3144727.00,7,449246.71,591083.00,-24%
+Hassan Mohamed 220,hassan_mohamed_220,denver_co,"Denver, CO",16,111,0.14,41,314,0.13,57,425,0.13,11,2.62,3670879.00,7,524411.29,591083.00,-11%
+Thomas Nelson 153,thomas_nelson_153,houston_tx,"Houston, TX",17,137,0.12,34,98,0.35,51,235,0.22,8,4.78,5333296.00,11,484845.09,329900.00,47%
+Robert Jones 846,robert_jones_846,boston_ma,"Boston, MA",13,83,0.16,35,201,0.17,48,284,0.17,8,3.23,8425685.00,18,468093.61,733673.00,-36%
+Susan Scott 489,susan_scott_489,houston_tx,"Houston, TX",30,291,0.10,26,96,0.27,56,387,0.14,11,4.49,9310630.00,19,490033.16,329900.00,49%
+Sofia Nelson 918,sofia_nelson_918,fresno_ca,"Fresno, CA",18,138,0.13,18,65,0.28,36,203,0.18,6,2.62,6978691.00,15,465246.07,437000.00,6%
+Juan Baker 280,juan_baker_280,minneapolis_mn,"Minneapolis, MN",3,19,0.16,28,216,0.13,31,235,0.13,6,2.43,9948574.00,19,523609.16,393674.00,33%
+Lucia Patel 846,lucia_patel_846,baltimore_md,"Baltimore, MD",20,103,0.19,27,256,0.11,47,359,0.13,7,2.40,6630146.00,14,473581.86,393506.00,20%
+Mary Campbell 436,mary_campbell_436,chicago_il,"Chicago, IL",6,19,0.32,40,156,0.26,46,175,0.26,8,3.07,8063791.00,16,503986.94,360000.00,40%
+Jin Campbell 783,jin_campbell_783,philadelphia_pa,"Philadelphia, PA",25,169,0.15,45,102,0.44,70,271,0.26,10,4.15,6607170.00,14,471940.71,280000.00,69%
+Keisha Mitchell 474,keisha_mitchell_474,detroit_mi,"Detroit, MI",7,29,0.24,28,78,0.36,35,107,0.33,6,2.78,4579415.00,10,457941.50,205878.00,122%
+Yuki White 832,yuki_white_832,riverside_ca,"Riverside, CA",20,188,0.11,15,100,0.15,35,288,0.12,7,2.94,6085304.00,12,507108.67,585960.00,-13%
+Nia Baker 810,nia_baker_810,oklahoma_city_ok,"Oklahoma City, OK",19,100,0.19,17,68,0.25,36,168,0.21,6,3.60,9491864.00,21,451993.52,268000.00,69%
+David Nelson 259,david_nelson_259,orlando_fl,"Orlando, FL",21,116,0.18,12,37,0.32,33,153,0.22,6,4.62,6382172.00,13,490936.31,410349.00,20%
+Lakshmi Young 759,lakshmi_young_759,baltimore_md,"Baltimore, MD",17,124,0.14,46,236,0.19,63,360,0.18,11,2.52,6753854.00,13,519527.23,393506.00,32%
+Anthony Jones 939,anthony_jones_939,riverside_ca,"Riverside, CA",27,95,0.28,44,406,0.11,71,501,0.14,7,4.63,6168741.00,12,514061.75,585960.00,-12%
+Mary Campbell 694,mary_campbell_694,richmond_va,"Richmond, VA",19,188,0.10,21,123,0.17,40,311,0.13,7,3.35,5269472.00,10,526947.20,395000.00,33%
+Haruka Ali 501,haruka_ali_501,milwaukee_wi,"Milwaukee, WI",28,125,0.22,15,48,0.31,43,173,0.25,7,3.00,5339303.00,12,444941.92,360000.00,24%
+Emily Hernandez 789,emily_hernandez_789,indianapolis_in,"Indianapolis, IN",28,100,0.28,37,75,0.49,65,175,0.37,10,2.67,4899351.00,11,445395.55,311372.00,43%
+Latoya Evans 846,latoya_evans_846,charlotte_nc,"Charlotte, NC",13,73,0.18,33,274,0.12,46,347,0.13,8,2.65,11631865.00,24,484661.04,412466.00,18%
+Margaret Parker 125,margaret_parker_125,louisville_ky,"Louisville, KY",2,7,0.29,46,431,0.11,48,438,0.11,9,2.45,5407348.00,11,491577.09,280000.00,76%
+Aisha Nelson 239,aisha_nelson_239,austin_tx,"Austin, TX",7,68,0.10,48,396,0.12,55,464,0.12,6,2.17,5384625.00,11,489511.36,430657.00,14%
+Michael Hill 333,michael_hill_333,new_york_ny,"New York, NY",21,140,0.15,33,194,0.17,54,334,0.16,6,4.46,7452187.00,15,496812.47,785000.00,-37%
+Malik Evans 912,malik_evans_912,las_vegas_nv,"Las Vegas, NV",16,85,0.19,43,219,0.20,59,304,0.19,7,4.22,6292393.00,13,484030.23,440000.00,10%
+Zainab Lewis 426,zainab_lewis_426,cincinnati_oh,"Cincinnati, OH",10,71,0.14,31,272,0.11,41,343,0.12,6,2.91,7179373.00,14,512812.36,304890.00,68%
+Jose Mitchell 887,jose_mitchell_887,philadelphia_pa,"Philadelphia, PA",15,141,0.11,35,217,0.16,50,358,0.14,6,2.35,6156891.00,11,559717.36,280000.00,100%
+Imani White 686,imani_white_686,boston_ma,"Boston, MA",23,211,0.11,28,217,0.13,51,428,0.12,6,4.80,3307403.00,7,472486.14,733673.00,-36%
+Ebony Mohamed 932,ebony_mohamed_932,tampa_fl,"Tampa, FL",30,173,0.17,42,295,0.14,72,468,0.15,6,3.32,4420626.00,10,442062.60,369291.00,20%
+Linda Jackson 955,linda_jackson_955,birmingham_al,"Birmingham, AL",23,137,0.17,34,232,0.15,57,369,0.15,7,4.28,5956623.00,12,496385.25,305370.00,63%
+Ashley Adams 313,ashley_adams_313,sacramento_ca,"Sacramento, CA",23,219,0.11,41,182,0.23,64,401,0.16,12,2.78,11503566.00,25,460142.64,583913.00,-21%
+Layla Washington 322,layla_washington_322,san_diego_ca,"San Diego, CA",22,205,0.11,17,151,0.11,39,356,0.11,6,3.30,6694124.00,14,478151.71,899450.00,-47%
+Fatima Torres 23,fatima_torres_23,riverside_ca,"Riverside, CA",15,51,0.29,39,389,0.10,54,440,0.12,7,2.65,6570514.00,13,505424.15,585960.00,-14%
+Asha Perez 333,asha_perez_333,philadelphia_pa,"Philadelphia, PA",17,99,0.17,30,198,0.15,47,297,0.16,7,2.54,5911213.00,13,454708.69,280000.00,62%
+Luis Davis 562,luis_davis_562,louisville_ky,"Louisville, KY",21,121,0.17,36,120,0.30,57,241,0.24,10,2.09,4680354.00,9,520039.33,280000.00,86%
+Fatima Evans 540,fatima_evans_540,kansas_city_mo,"Kansas City, MO",28,195,0.14,40,282,0.14,68,477,0.14,10,3.25,5316274.00,11,483297.64,349900.00,38%
+Kwame Ramirez 69,kwame_ramirez_69,san_jose_ca,"San Jose, CA",21,138,0.15,42,265,0.16,63,403,0.16,6,4.99,5456493.00,13,419730.23,1632174.00,-74%
+Mei Parker 844,mei_parker_844,louisville_ky,"Louisville, KY",21,153,0.14,21,55,0.38,42,208,0.20,8,4.99,3384278.00,7,483468.29,280000.00,73%
+Jin Hall 684,jin_hall_684,miami_fl,"Miami, FL",21,193,0.11,43,278,0.15,64,471,0.14,9,4.74,8614103.00,17,506711.94,560000.00,-10%
+Daniel Carter 403,daniel_carter_403,providence_ri,"Providence, RI",20,110,0.18,12,99,0.12,32,209,0.15,6,3.66,6558186.00,13,504475.85,524062.00,-4%
